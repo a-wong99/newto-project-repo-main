@@ -1,3 +1,5 @@
+### Both projects were done in Google colab
+
 ## Project 1
 Project one involved creating a coffee shop ordering system. (See folder for details)
 
