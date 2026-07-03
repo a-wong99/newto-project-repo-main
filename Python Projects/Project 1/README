@@ -1,1 +1,1 @@
-
+This project involves creating a simple Python program that allows customers to view a menu, place multiple orders, calculate their total bill (including tax and potential discounts), and receive a printed 'receipt'. Additionally, there's an optional feature for a 'lucky prize' through a random draw.
