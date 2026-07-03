@@ -6,3 +6,6 @@ My tasks involved:
 - Exploring and analysing relationships between features and insurance charges,
 - Creating meaningful visualisations using Pandas, Matplotlib, and Seaborn,
 - Summarising my findings and present them to my (imaginary) manager.
+
+
+The data folder contains the csv file titled 'insurance' if you want access to the dataset.
