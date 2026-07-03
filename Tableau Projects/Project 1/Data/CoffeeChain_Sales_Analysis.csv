@@ -1,0 +1,801 @@
+TransID,TransDate,City,State,Region,Store,Product,Size,Quantity,UnitPrice,Sales,COGS,Profit,MarketingExpense
+C2-200000,2021-02-24,Henderson,Nevada,West,Henderson #5,Espresso,Small,3,3.91,11.73,5.11,6.62,2.74
+C2-200001,2023-10-14,San Jose,California,West,San Jose #2,Americano,Large,1,6.94,6.94,4.53,2.41,1.05
+C2-200002,2024-06-28,Jacksonville,Florida,South,Jacksonville #2,Latte,Large,5,6.73,33.65,18.36,15.29,5.7
+C2-200003,2023-02-05,Scottsdale,Arizona,West,Scottsdale #2,Espresso,Small,2,4.34,8.68,4.51,4.17,2.71
+C2-200004,2023-03-20,Spokane,Washington,West,Spokane #4,Mocha,Medium,5,3.31,16.55,7.17,9.38,1.91
+C2-200005,2022-06-18,Colorado Springs,Colorado,West,Colorado Springs #3,Espresso,Small,1,4.48,4.48,2.32,2.16,0.32
+C2-200006,2023-01-23,Springfield,Illinois,Central,Springfield #3,Cold Brew,Large,4,5.89,23.56,16.46,7.1,0.97
+C2-200007,2024-05-04,Sparks,Nevada,West,Sparks #1,Cappuccino,Medium,2,4.74,9.48,4.81,4.67,1.95
+C2-200008,2023-08-06,Colorado Springs,Colorado,West,Colorado Springs #2,Latte,Medium,2,4.93,9.86,6.14,3.72,0.73
+C2-200009,2024-04-10,Denver,Colorado,West,Denver #2,Latte,Medium,3,3.5,10.5,4.85,5.65,0.7
+C2-200010,2023-05-24,San Diego,California,West,San Diego #5,Mocha,Medium,5,4.9,24.5,13.78,10.72,1.85
+C2-200011,2021-11-22,Rochester,New York,East,Rochester #3,Cappuccino,Medium,1,5.68,5.68,2.81,2.87,0.88
+C2-200012,2023-04-19,Bellevue,Washington,West,Bellevue #4,Americano,Small,4,3.4,13.6,8.75,4.85,2.78
+C2-200013,2024-12-08,Tampa,Florida,South,Tampa #5,Cappuccino,Medium,3,3.6,10.8,6.16,4.64,3.01
+C2-200014,2021-12-22,North Las Vegas,Nevada,West,North Las Vegas #2,Cold Brew,Medium,5,5.4,27.0,18.56,8.44,2.67
+C2-200015,2023-06-11,Albany,New York,East,Albany #3,Espresso,Medium,1,4.7,4.7,1.92,2.78,1.1
+C2-200016,2024-01-02,Bellevue,Washington,West,Bellevue #3,Latte,Medium,2,5.62,11.24,5.26,5.98,2.16
+C2-200017,2021-03-14,Tucson,Arizona,West,Tucson #1,Cappuccino,Medium,2,4.08,8.16,4.12,4.04,1.76
+C2-200018,2021-03-13,Worcester,Massachusetts,East,Worcester #5,Cappuccino,Small,5,2.96,14.8,7.73,7.07,3.11
+C2-200019,2024-06-18,Boulder,Colorado,West,Boulder #4,Cappuccino,Medium,5,3.52,17.6,7.9,9.7,2.97
+C2-200020,2022-09-01,San Antonio,Texas,Central,San Antonio #3,Latte,Large,1,7.01,7.01,3.83,3.18,0.84
+C2-200021,2024-02-04,San Jose,California,West,San Jose #5,Espresso,Medium,4,5.13,20.52,14.27,6.25,4.68
+C2-200022,2022-11-27,Fort Collins,Colorado,West,Fort Collins #2,Cappuccino,Small,4,3.54,14.16,6.76,7.4,3.33
+C2-200023,2021-08-02,Aurora,Illinois,Central,Aurora #1,Latte,Medium,3,5.66,16.98,9.07,7.91,1.97
+C2-200024,2024-11-16,Sacramento,California,West,Sacramento #4,Cappuccino,Small,4,3.99,15.96,10.91,5.05,2.78
+C2-200025,2021-07-17,Houston,Texas,Central,Houston #5,Americano,Large,5,6.35,31.75,14.24,17.51,7.36
+C2-200026,2021-01-08,Orlando,Florida,South,Orlando #2,Espresso,Large,4,7.01,28.04,17.74,10.3,4.86
+C2-200027,2022-07-25,San Francisco,California,West,San Francisco #1,Mocha,Large,4,4.85,19.4,9.86,9.54,4.35
+C2-200028,2021-01-10,Scottsdale,Arizona,West,Scottsdale #3,Cappuccino,Small,2,3.01,6.02,3.08,2.94,1.94
+C2-200029,2022-11-19,Jacksonville,Florida,South,Jacksonville #2,Cold Brew,Small,1,3.91,3.91,2.48,1.43,1.27
+C2-200030,2021-10-24,Rochester,New York,East,Rochester #2,Cappuccino,Medium,5,5.72,28.6,12.41,16.19,5.59
+C2-200031,2024-05-27,San Antonio,Texas,Central,San Antonio #5,Cappuccino,Large,3,6.62,19.86,8.33,11.53,3.55
+C2-200032,2023-10-27,Springfield,Massachusetts,East,Springfield #3,Espresso,Large,4,4.04,16.16,7.98,8.18,5.61
+C2-200033,2024-10-19,Worcester,Massachusetts,East,Worcester #1,Latte,Medium,1,5.43,5.43,3.09,2.34,0.73
+C2-200034,2021-06-03,San Jose,California,West,San Jose #4,Americano,Small,5,2.82,14.1,7.3,6.8,1.66
+C2-200035,2024-09-26,Denver,Colorado,West,Denver #2,Cold Brew,Medium,1,4.66,4.66,1.88,2.78,0.81
+C2-200036,2023-03-29,Sparks,Nevada,West,Sparks #4,Mocha,Small,2,3.62,7.24,3.45,3.79,1.89
+C2-200037,2021-09-08,Lowell,Massachusetts,East,Lowell #1,Latte,Medium,1,5.1,5.1,2.47,2.63,0.38
+C2-200038,2023-12-27,Boulder,Colorado,West,Boulder #3,Mocha,Small,3,2.6,7.8,4.53,3.27,3.03
+C2-200039,2021-03-10,Jacksonville,Florida,South,Jacksonville #3,Mocha,Large,3,5.61,16.83,9.65,7.18,1.82
+C2-200040,2023-05-03,Los Angeles,California,West,Los Angeles #5,Latte,Medium,5,4.68,23.4,12.17,11.23,6.42
+C2-200041,2023-10-18,San Francisco,California,West,San Francisco #4,Cappuccino,Medium,4,4.96,19.84,9.78,10.06,5.91
+C2-200042,2024-02-24,Fort Collins,Colorado,West,Fort Collins #1,Latte,Medium,1,4.81,4.81,2.66,2.15,1.19
+C2-200043,2022-01-19,Scottsdale,Arizona,West,Scottsdale #5,Americano,Medium,2,3.42,6.84,4.17,2.67,2.92
+C2-200044,2023-03-23,Aurora,Illinois,Central,Aurora #5,Latte,Medium,5,3.64,18.2,9.82,8.38,3.72
+C2-200045,2022-12-19,Worcester,Massachusetts,East,Worcester #5,Cappuccino,Large,2,4.65,9.3,3.76,5.54,2.04
+C2-200046,2021-07-02,Reno,Nevada,West,Reno #5,Americano,Medium,2,4.65,9.3,6.13,3.17,2.44
+C2-200047,2023-09-03,Fort Collins,Colorado,West,Fort Collins #4,Mocha,Medium,4,4.76,19.04,10.41,8.63,1.46
+C2-200048,2023-08-28,Chandler,Arizona,West,Chandler #5,Cappuccino,Small,2,4.42,8.84,5.82,3.02,1.86
+C2-200049,2022-08-10,Mesa,Arizona,West,Mesa #1,Tea,Small,3,3.64,10.92,5.03,5.89,2.96
+C2-200050,2021-12-21,Phoenix,Arizona,West,Phoenix #4,Americano,Large,3,5.45,16.35,7.55,8.8,2.88
+C2-200051,2022-10-27,Mesa,Arizona,West,Mesa #3,Latte,Medium,2,3.65,7.3,4.15,3.15,2.87
+C2-200052,2022-12-12,Tucson,Arizona,West,Tucson #2,Latte,Medium,4,4.55,18.2,8.63,9.57,2.61
+C2-200053,2024-10-08,Syracuse,New York,East,Syracuse #1,Mocha,Medium,1,3.72,3.72,1.69,2.03,0.96
+C2-200054,2022-05-19,Lowell,Massachusetts,East,Lowell #5,Latte,Small,1,4.45,4.45,2.09,2.36,0.46
+C2-200055,2023-06-27,Aurora,Illinois,Central,Aurora #1,Americano,Small,1,2.66,2.66,1.36,1.3,1.47
+C2-200056,2023-07-21,Joliet,Illinois,Central,Joliet #4,Americano,Large,2,5.02,10.04,7.03,3.01,2.06
+C2-200057,2023-12-30,Albany,New York,East,Albany #5,Cappuccino,Large,4,5.14,20.56,14.06,6.5,5.4
+C2-200058,2021-08-06,Chicago,Illinois,Central,Chicago #4,Espresso,Small,1,4.45,4.45,2.06,2.39,1.1
+C2-200059,2023-07-19,Colorado Springs,Colorado,West,Colorado Springs #3,Mocha,Medium,3,3.68,11.04,6.81,4.23,0.89
+C2-200060,2021-07-15,Naperville,Illinois,Central,Naperville #2,Cold Brew,Small,2,4.37,8.74,5.82,2.92,1.34
+C2-200061,2022-03-22,Fort Worth,Texas,Central,Fort Worth #3,Mocha,Small,5,2.67,13.35,7.64,5.71,4.31
+C2-200062,2021-06-08,Sacramento,California,West,Sacramento #5,Mocha,Medium,2,5.66,11.32,6.2,5.12,2.79
+C2-200063,2022-06-03,Henderson,Nevada,West,Henderson #5,Americano,Small,1,4.41,4.41,2.35,2.06,0.88
+C2-200064,2022-03-04,Aurora,Illinois,Central,Aurora #1,Americano,Medium,4,3.58,14.32,9.68,4.64,1.4
+C2-200065,2023-07-09,Houston,Texas,Central,Houston #4,Espresso,Medium,2,4.54,9.08,5.47,3.61,2.16
+C2-200066,2022-10-26,Houston,Texas,Central,Houston #1,Mocha,Medium,4,3.83,15.32,9.85,5.47,1.19
+C2-200067,2023-07-13,San Antonio,Texas,Central,San Antonio #1,Cappuccino,Medium,4,4.62,18.48,8.2,10.28,4.35
+C2-200068,2021-12-03,Houston,Texas,Central,Houston #1,Espresso,Small,4,4.15,16.6,10.67,5.93,5.24
+C2-200069,2022-04-22,Joliet,Illinois,Central,Joliet #1,Latte,Medium,3,5.54,16.62,9.83,6.79,2.52
+C2-200070,2024-03-30,Seattle,Washington,West,Seattle #5,Americano,Medium,2,4.56,9.12,4.18,4.94,2.19
+C2-200071,2022-07-27,Fort Worth,Texas,Central,Fort Worth #5,Cappuccino,Medium,3,4.14,12.42,8.48,3.94,3.31
+C2-200072,2022-02-25,Colorado Springs,Colorado,West,Colorado Springs #1,Cappuccino,Small,1,2.64,2.64,1.53,1.11,1.14
+C2-200073,2021-09-03,Scottsdale,Arizona,West,Scottsdale #4,Americano,Medium,1,3.78,3.78,1.92,1.86,1.43
+C2-200074,2023-12-31,Fort Collins,Colorado,West,Fort Collins #4,Latte,Medium,5,4.85,24.25,9.88,14.37,4.71
+C2-200075,2024-03-27,Colorado Springs,Colorado,West,Colorado Springs #5,Americano,Small,5,2.7,13.5,8.9,4.6,4.24
+C2-200076,2021-12-13,Tacoma,Washington,West,Tacoma #1,Cappuccino,Large,2,6.4,12.8,5.75,7.05,2.15
+C2-200077,2024-06-05,Reno,Nevada,West,Reno #2,Espresso,Large,3,5.03,15.09,9.47,5.62,1.63
+C2-200078,2024-06-06,Las Vegas,Nevada,West,Las Vegas #2,Tea,Large,4,6.78,27.12,17.93,9.19,2.25
+C2-200079,2024-11-13,Worcester,Massachusetts,East,Worcester #3,Cappuccino,Small,1,3.9,3.9,2.03,1.87,0.73
+C2-200080,2024-09-27,Chicago,Illinois,Central,Chicago #3,Latte,Small,5,2.51,12.55,8.25,4.3,6.61
+C2-200081,2021-05-20,Austin,Texas,Central,Austin #1,Latte,Medium,4,4.61,18.44,9.49,8.95,3.22
+C2-200082,2022-04-05,Seattle,Washington,West,Seattle #2,Espresso,Small,2,4.46,8.92,4.32,4.6,1.2
+C2-200083,2021-07-05,Scottsdale,Arizona,West,Scottsdale #5,Cold Brew,Medium,3,4.23,12.69,8.35,4.34,3.71
+C2-200084,2021-12-17,San Jose,California,West,San Jose #1,Espresso,Large,2,3.92,7.84,4.85,2.99,2.97
+C2-200085,2022-12-06,Jacksonville,Florida,South,Jacksonville #2,Cold Brew,Small,2,3.71,7.42,5.06,2.36,1.18
+C2-200086,2022-07-28,Tallahassee,Florida,South,Tallahassee #2,Espresso,Medium,1,3.26,3.26,1.48,1.78,1.01
+C2-200087,2023-08-22,Aurora,Illinois,Central,Aurora #5,Mocha,Medium,4,5.23,20.92,12.54,8.38,5.45
+C2-200088,2021-12-17,Las Vegas,Nevada,West,Las Vegas #5,Cold Brew,Medium,5,3.25,16.25,9.44,6.81,3.85
+C2-200089,2024-01-01,Chicago,Illinois,Central,Chicago #1,Latte,Large,3,6.2,18.6,9.07,9.53,2.37
+C2-200090,2024-11-04,Aurora,Illinois,Central,Aurora #2,Americano,Small,4,3.25,13.0,8.1,4.9,4.55
+C2-200091,2023-03-07,Phoenix,Arizona,West,Phoenix #4,Espresso,Medium,5,5.29,26.45,12.02,14.43,4.36
+C2-200092,2021-06-21,Colorado Springs,Colorado,West,Colorado Springs #4,Mocha,Small,3,3.25,9.75,4.53,5.22,4.12
+C2-200093,2021-12-12,Houston,Texas,Central,Houston #4,Espresso,Small,2,2.54,5.08,2.47,2.61,0.55
+C2-200094,2023-03-01,Seattle,Washington,West,Seattle #2,Americano,Medium,4,3.77,15.08,9.96,5.12,4.39
+C2-200095,2021-03-24,Bellevue,Washington,West,Bellevue #4,Latte,Medium,4,3.34,13.36,9.22,4.14,1.71
+C2-200096,2023-05-21,Los Angeles,California,West,Los Angeles #1,Cold Brew,Large,2,6.75,13.5,7.56,5.94,1.57
+C2-200097,2022-07-18,Sacramento,California,West,Sacramento #3,Cappuccino,Medium,4,5.23,20.92,9.78,11.14,4.49
+C2-200098,2022-08-28,Scottsdale,Arizona,West,Scottsdale #5,Latte,Medium,1,5.38,5.38,3.71,1.67,0.97
+C2-200099,2021-11-06,San Antonio,Texas,Central,San Antonio #5,Latte,Medium,5,4.2,21.0,10.78,10.22,1.23
+C2-200100,2023-06-07,Albany,New York,East,Albany #2,Latte,Small,2,2.69,5.38,3.22,2.16,1.99
+C2-200101,2023-01-28,Chicago,Illinois,Central,Chicago #5,Cappuccino,Small,3,2.62,7.86,4.14,3.72,0.6
+C2-200102,2021-05-13,Phoenix,Arizona,West,Phoenix #2,Espresso,Large,5,5.95,29.75,14.13,15.62,2.32
+C2-200103,2022-06-07,Sparks,Nevada,West,Sparks #2,Latte,Medium,5,3.51,17.55,10.42,7.13,3.25
+C2-200104,2021-12-19,Syracuse,New York,East,Syracuse #1,Cold Brew,Small,4,4.33,17.32,9.91,7.41,3.42
+C2-200105,2021-01-16,Reno,Nevada,West,Reno #4,Cold Brew,Medium,5,4.97,24.85,16.81,8.04,2.47
+C2-200106,2024-07-24,Albany,New York,East,Albany #5,Mocha,Medium,3,4.6,13.8,8.78,5.02,1.84
+C2-200107,2024-06-08,San Antonio,Texas,Central,San Antonio #2,Cold Brew,Small,5,3.11,15.55,8.85,6.7,3.68
+C2-200108,2022-12-20,Fort Worth,Texas,Central,Fort Worth #4,Mocha,Medium,2,3.3,6.6,2.83,3.77,2.93
+C2-200109,2023-08-29,San Francisco,California,West,San Francisco #4,Cappuccino,Small,4,3.5,14.0,6.46,7.54,5.36
+C2-200110,2021-01-16,Buffalo,New York,East,Buffalo #2,Americano,Medium,2,5.51,11.02,5.17,5.85,2.44
+C2-200111,2023-04-18,Miami,Florida,South,Miami #4,Cold Brew,Small,1,3.6,3.6,1.44,2.16,1.49
+C2-200112,2022-03-25,Reno,Nevada,West,Reno #2,Cappuccino,Medium,4,3.54,14.16,7.56,6.6,2.54
+C2-200113,2022-11-03,Seattle,Washington,West,Seattle #1,Tea,Small,3,3.25,9.75,5.71,4.04,1.3
+C2-200114,2023-09-05,Joliet,Illinois,Central,Joliet #2,Tea,Medium,1,4.84,4.84,2.1,2.74,1.12
+C2-200115,2024-05-12,Houston,Texas,Central,Houston #5,Latte,Small,2,3.7,7.4,4.31,3.09,2.89
+C2-200116,2023-07-27,Sparks,Nevada,West,Sparks #2,Latte,Small,2,3.19,6.38,3.26,3.12,0.76
+C2-200117,2022-06-05,Spokane,Washington,West,Spokane #3,Latte,Medium,2,5.05,10.1,6.2,3.9,0.93
+C2-200118,2022-07-15,San Diego,California,West,San Diego #1,Cappuccino,Large,1,4.46,4.46,2.21,2.25,1.14
+C2-200119,2023-01-14,Los Angeles,California,West,Los Angeles #4,Tea,Small,5,4.08,20.4,9.78,10.62,5.71
+C2-200120,2024-04-12,Dallas,Texas,Central,Dallas #5,Tea,Small,2,2.76,5.52,3.74,1.78,0.82
+C2-200121,2024-07-08,Boulder,Colorado,West,Boulder #1,Americano,Medium,5,5.76,28.8,19.66,9.14,6.83
+C2-200122,2022-04-09,Boulder,Colorado,West,Boulder #4,Espresso,Medium,3,4.8,14.4,8.61,5.79,1.9
+C2-200123,2022-11-20,Boulder,Colorado,West,Boulder #1,Tea,Medium,3,3.26,9.78,5.94,3.84,2.21
+C2-200124,2023-08-22,Las Vegas,Nevada,West,Las Vegas #5,Cappuccino,Medium,1,5.69,5.69,3.78,1.91,0.83
+C2-200125,2024-04-02,San Jose,California,West,San Jose #5,Tea,Medium,2,3.76,7.52,3.25,4.27,1.76
+C2-200126,2022-07-03,Cambridge,Massachusetts,East,Cambridge #4,Latte,Medium,5,4.63,23.15,10.48,12.67,5.67
+C2-200127,2023-11-09,Aurora,Illinois,Central,Aurora #4,Latte,Large,1,6.42,6.42,3.91,2.51,1.28
+C2-200128,2023-08-21,Austin,Texas,Central,Austin #4,Espresso,Small,4,3.77,15.08,9.96,5.12,4.23
+C2-200129,2021-02-22,Boston,Massachusetts,East,Boston #4,Latte,Large,4,6.82,27.28,17.51,9.77,4.19
+C2-200130,2021-09-09,Buffalo,New York,East,Buffalo #3,Cold Brew,Medium,5,4.16,20.8,10.18,10.62,3.12
+C2-200131,2024-06-11,San Jose,California,West,San Jose #3,Tea,Medium,2,4.0,8.0,3.38,4.62,0.98
+C2-200132,2022-07-06,Los Angeles,California,West,Los Angeles #5,Latte,Small,1,4.4,4.4,1.92,2.48,0.7
+C2-200133,2024-07-08,Austin,Texas,Central,Austin #2,Cold Brew,Medium,2,5.08,10.16,6.14,4.02,1.34
+C2-200134,2022-07-13,Los Angeles,California,West,Los Angeles #1,Latte,Small,5,3.54,17.7,11.97,5.73,1.06
+C2-200135,2021-03-24,Bellevue,Washington,West,Bellevue #1,Cappuccino,Large,2,4.96,9.92,5.01,4.91,1.28
+C2-200136,2022-09-02,Bellevue,Washington,West,Bellevue #1,Americano,Small,2,3.62,7.24,3.71,3.53,1.8
+C2-200137,2021-06-07,Lowell,Massachusetts,East,Lowell #1,Cold Brew,Large,1,5.47,5.47,2.71,2.76,1.35
+C2-200138,2023-12-11,Dallas,Texas,Central,Dallas #2,Espresso,Medium,4,3.89,15.56,9.31,6.25,5.34
+C2-200139,2023-06-10,New York,New York,East,New York #3,Espresso,Small,4,3.2,12.8,6.05,6.75,1.94
+C2-200140,2023-06-22,Boston,Massachusetts,East,Boston #5,Cappuccino,Small,2,4.34,8.68,3.73,4.95,2.17
+C2-200141,2023-07-08,North Las Vegas,Nevada,West,North Las Vegas #3,Americano,Medium,3,5.0,15.0,8.56,6.44,2.6
+C2-200142,2021-03-24,Buffalo,New York,East,Buffalo #2,Espresso,Medium,2,3.21,6.42,3.66,2.76,2.23
+C2-200143,2023-04-02,Denver,Colorado,West,Denver #5,Espresso,Medium,3,5.04,15.12,9.06,6.06,3.36
+C2-200144,2024-05-15,Chandler,Arizona,West,Chandler #3,Espresso,Small,4,3.22,12.88,7.19,5.69,4.77
+C2-200145,2022-05-05,Albany,New York,East,Albany #1,Latte,Large,1,5.02,5.02,2.61,2.41,0.59
+C2-200146,2024-01-20,San Diego,California,West,San Diego #4,Latte,Medium,2,3.32,6.64,3.43,3.21,0.5
+C2-200147,2024-09-21,Scottsdale,Arizona,West,Scottsdale #4,Tea,Medium,3,3.98,11.94,7.96,3.98,2.2
+C2-200148,2023-04-18,Tallahassee,Florida,South,Tallahassee #1,Tea,Small,5,2.99,14.95,7.33,7.62,3.76
+C2-200149,2022-11-23,Albany,New York,East,Albany #5,Latte,Medium,2,4.75,9.5,4.81,4.69,0.89
+C2-200150,2021-07-07,San Antonio,Texas,Central,San Antonio #4,Espresso,Large,3,5.99,17.97,11.74,6.23,2.31
+C2-200151,2024-10-27,Houston,Texas,Central,Houston #3,Cold Brew,Large,2,4.29,8.58,4.22,4.36,2.36
+C2-200152,2024-04-08,Henderson,Nevada,West,Henderson #5,Mocha,Medium,1,4.29,4.29,2.47,1.82,1.48
+C2-200153,2021-12-24,Joliet,Illinois,Central,Joliet #4,Mocha,Large,3,5.48,16.44,7.18,9.26,3.34
+C2-200154,2022-09-27,Houston,Texas,Central,Houston #1,Mocha,Large,3,6.12,18.36,12.02,6.34,1.95
+C2-200155,2023-01-14,Worcester,Massachusetts,East,Worcester #2,Cold Brew,Medium,5,4.69,23.45,10.91,12.54,1.02
+C2-200156,2022-11-11,New York,New York,East,New York #3,Cold Brew,Medium,2,5.36,10.72,6.07,4.65,0.42
+C2-200157,2021-10-03,Springfield,Massachusetts,East,Springfield #4,Tea,Medium,2,5.18,10.36,7.18,3.18,0.45
+C2-200158,2024-11-18,Cambridge,Massachusetts,East,Cambridge #2,Mocha,Medium,5,4.12,20.6,13.36,7.24,2.72
+C2-200159,2022-12-21,Joliet,Illinois,Central,Joliet #3,Cappuccino,Medium,4,4.89,19.56,11.78,7.78,4.49
+C2-200160,2024-05-29,Reno,Nevada,West,Reno #1,Americano,Small,1,2.94,2.94,1.87,1.07,0.77
+C2-200161,2022-12-29,Cambridge,Massachusetts,East,Cambridge #2,Espresso,Small,1,3.95,3.95,2.5,1.45,0.94
+C2-200162,2023-04-05,Rochester,New York,East,Rochester #1,Americano,Medium,1,3.26,3.26,2.1,1.16,1.19
+C2-200163,2022-03-27,Fort Collins,Colorado,West,Fort Collins #4,Latte,Small,3,4.37,13.11,7.51,5.6,2.81
+C2-200164,2021-10-14,Boulder,Colorado,West,Boulder #4,Cappuccino,Large,1,6.41,6.41,4.35,2.06,0.4
+C2-200165,2023-01-10,Aurora,Illinois,Central,Aurora #4,Latte,Medium,3,4.86,14.58,7.0,7.58,2.58
+C2-200166,2023-09-23,Los Angeles,California,West,Los Angeles #2,Latte,Large,3,5.37,16.11,6.85,9.26,0.67
+C2-200167,2023-11-26,Houston,Texas,Central,Houston #4,Cappuccino,Small,5,3.47,17.35,7.52,9.83,6.1
+C2-200168,2022-03-12,Bellevue,Washington,West,Bellevue #2,Mocha,Small,1,3.49,3.49,1.71,1.78,1.5
+C2-200169,2021-12-04,Lowell,Massachusetts,East,Lowell #2,Cappuccino,Medium,3,5.73,17.19,10.07,7.12,2.72
+C2-200170,2024-09-03,Sacramento,California,West,Sacramento #2,Espresso,Small,1,3.45,3.45,2.31,1.14,1.23
+C2-200171,2021-10-16,Jacksonville,Florida,South,Jacksonville #2,Mocha,Small,5,3.75,18.75,12.97,5.78,5.3
+C2-200172,2023-12-27,San Francisco,California,West,San Francisco #4,Cold Brew,Medium,2,3.71,7.42,4.01,3.41,1.06
+C2-200173,2021-12-11,Joliet,Illinois,Central,Joliet #1,Cold Brew,Medium,5,4.44,22.2,11.77,10.43,2.28
+C2-200174,2022-01-18,Sparks,Nevada,West,Sparks #2,Cold Brew,Medium,1,3.87,3.87,2.29,1.58,0.37
+C2-200175,2021-04-12,Springfield,Massachusetts,East,Springfield #5,Latte,Medium,2,4.32,8.64,5.79,2.85,2.66
+C2-200176,2024-03-19,Jacksonville,Florida,South,Jacksonville #5,Cold Brew,Medium,4,3.33,13.32,6.01,7.31,4.01
+C2-200177,2024-02-07,Mesa,Arizona,West,Mesa #4,Espresso,Small,3,3.6,10.8,6.86,3.94,1.23
+C2-200178,2022-11-12,Everett,Washington,West,Everett #4,Espresso,Medium,1,4.72,4.72,3.24,1.48,1.38
+C2-200179,2023-12-31,San Jose,California,West,San Jose #5,Cold Brew,Medium,4,4.87,19.48,8.43,11.05,3.45
+C2-200180,2024-04-21,Denver,Colorado,West,Denver #1,Americano,Small,2,3.2,6.4,3.88,2.52,2.42
+C2-200181,2023-01-28,Lowell,Massachusetts,East,Lowell #4,Cappuccino,Small,5,2.99,14.95,9.76,5.19,4.82
+C2-200182,2023-03-13,Tampa,Florida,South,Tampa #3,Tea,Small,3,4.36,13.08,5.35,7.73,3.6
+C2-200183,2024-09-05,Miami,Florida,South,Miami #2,Cold Brew,Large,3,5.52,16.56,10.65,5.91,1.35
+C2-200184,2024-05-11,Boulder,Colorado,West,Boulder #4,Cold Brew,Medium,1,5.59,5.59,3.19,2.4,0.87
+C2-200185,2022-09-11,Everett,Washington,West,Everett #3,Americano,Medium,2,3.87,7.74,3.3,4.44,2.42
+C2-200186,2024-01-31,Tacoma,Washington,West,Tacoma #5,Cappuccino,Medium,3,4.76,14.28,9.88,4.4,1.14
+C2-200187,2023-04-18,Sacramento,California,West,Sacramento #5,Mocha,Medium,2,4.36,8.72,4.08,4.64,1.63
+C2-200188,2021-11-21,Sacramento,California,West,Sacramento #3,Americano,Large,4,6.37,25.48,13.49,11.99,1.42
+C2-200189,2022-06-30,Lowell,Massachusetts,East,Lowell #1,Americano,Small,5,4.26,21.3,9.43,11.87,4.8
+C2-200190,2021-09-22,Orlando,Florida,South,Orlando #3,Tea,Medium,4,4.44,17.76,9.45,8.31,5.52
+C2-200191,2023-04-25,Bellevue,Washington,West,Bellevue #5,Latte,Small,2,3.71,7.42,3.34,4.08,1.17
+C2-200192,2021-03-03,Springfield,Massachusetts,East,Springfield #4,Espresso,Large,4,6.69,26.76,15.1,11.66,2.41
+C2-200193,2023-10-17,North Las Vegas,Nevada,West,North Las Vegas #2,Tea,Medium,1,4.47,4.47,2.88,1.59,0.54
+C2-200194,2022-04-26,Albany,New York,East,Albany #1,Cold Brew,Small,3,3.17,9.51,4.57,4.94,3.32
+C2-200195,2024-01-15,Tacoma,Washington,West,Tacoma #5,Latte,Medium,3,5.19,15.57,7.27,8.3,3.03
+C2-200196,2021-06-18,New York,New York,East,New York #3,Espresso,Small,1,4.09,4.09,2.0,2.09,1.18
+C2-200197,2024-10-18,Naperville,Illinois,Central,Naperville #3,Americano,Small,3,3.5,10.5,6.82,3.68,3.78
+C2-200198,2023-04-01,North Las Vegas,Nevada,West,North Las Vegas #3,Cold Brew,Large,3,5.4,16.2,11.27,4.93,4.01
+C2-200199,2023-01-16,San Diego,California,West,San Diego #3,Cold Brew,Small,3,3.71,11.13,7.38,3.75,3.9
+C2-200200,2022-02-14,Mesa,Arizona,West,Mesa #3,Mocha,Small,1,3.62,3.62,2.51,1.11,0.92
+C2-200201,2023-08-02,Aurora,Colorado,West,Aurora #1,Cappuccino,Medium,5,4.77,23.85,11.66,12.19,4.3
+C2-200202,2022-07-19,Phoenix,Arizona,West,Phoenix #4,Latte,Small,3,2.57,7.71,3.48,4.23,4.45
+C2-200203,2024-12-29,Chandler,Arizona,West,Chandler #3,Cold Brew,Large,3,4.01,12.03,7.37,4.66,4.44
+C2-200204,2022-08-04,Rochester,New York,East,Rochester #3,Cappuccino,Medium,2,4.17,8.34,5.69,2.65,2.45
+C2-200205,2021-02-10,North Las Vegas,Nevada,West,North Las Vegas #5,Cappuccino,Medium,2,4.29,8.58,3.84,4.74,1.21
+C2-200206,2023-03-17,Albany,New York,East,Albany #2,Mocha,Medium,1,5.35,5.35,2.92,2.43,1.41
+C2-200207,2024-08-08,San Antonio,Texas,Central,San Antonio #4,Latte,Large,1,4.82,4.82,2.29,2.53,0.76
+C2-200208,2021-11-21,North Las Vegas,Nevada,West,North Las Vegas #4,Latte,Medium,1,4.7,4.7,2.09,2.61,0.64
+C2-200209,2024-07-17,Bellevue,Washington,West,Bellevue #4,Cappuccino,Medium,4,3.86,15.44,7.33,8.11,5.94
+C2-200210,2021-04-11,North Las Vegas,Nevada,West,North Las Vegas #5,Espresso,Small,1,4.38,4.38,2.82,1.56,0.88
+C2-200211,2024-11-16,Austin,Texas,Central,Austin #5,Latte,Medium,2,5.42,10.84,4.67,6.17,1.05
+C2-200212,2022-08-17,Chicago,Illinois,Central,Chicago #4,Mocha,Small,3,3.09,9.27,4.35,4.92,4.25
+C2-200213,2022-07-23,Aurora,Illinois,Central,Aurora #1,Americano,Small,4,3.99,15.96,9.86,6.1,2.18
+C2-200214,2024-12-12,Tallahassee,Florida,South,Tallahassee #2,Latte,Medium,1,3.92,3.92,2.33,1.59,1.1
+C2-200215,2023-02-09,Boulder,Colorado,West,Boulder #2,Americano,Small,1,3.87,3.87,1.93,1.94,0.3
+C2-200216,2024-06-25,Jacksonville,Florida,South,Jacksonville #1,Americano,Medium,1,4.83,4.83,2.29,2.54,1.25
+C2-200217,2021-11-10,Springfield,Massachusetts,East,Springfield #3,Espresso,Medium,3,4.36,13.08,6.88,6.2,2.97
+C2-200218,2021-11-20,Scottsdale,Arizona,West,Scottsdale #3,Mocha,Medium,2,4.93,9.86,5.4,4.46,1.42
+C2-200219,2024-01-19,Orlando,Florida,South,Orlando #1,Mocha,Small,2,2.6,5.2,3.16,2.04,2.93
+C2-200220,2023-07-10,Seattle,Washington,West,Seattle #1,Latte,Large,5,5.66,28.3,13.3,15.0,4.22
+C2-200221,2022-05-05,Phoenix,Arizona,West,Phoenix #5,Cold Brew,Medium,4,5.49,21.96,10.3,11.66,3.51
+C2-200222,2024-01-27,Henderson,Nevada,West,Henderson #4,Latte,Small,1,4.24,4.24,2.29,1.95,1.09
+C2-200223,2024-11-06,Albany,New York,East,Albany #1,Espresso,Small,5,3.12,15.6,8.13,7.47,4.1
+C2-200224,2023-12-16,New York,New York,East,New York #2,Espresso,Large,4,6.8,27.2,16.68,10.52,3.9
+C2-200225,2023-08-18,Aurora,Colorado,West,Aurora #4,Tea,Medium,4,5.26,21.04,8.42,12.62,3.54
+C2-200226,2022-11-16,Fort Collins,Colorado,West,Fort Collins #5,Latte,Small,2,3.62,7.24,4.89,2.35,2.73
+C2-200227,2022-06-10,Albany,New York,East,Albany #2,Americano,Medium,5,3.52,17.6,11.19,6.41,5.01
+C2-200228,2021-05-31,Tallahassee,Florida,South,Tallahassee #4,Tea,Medium,4,4.36,17.44,11.88,5.56,5.79
+C2-200229,2024-11-04,Reno,Nevada,West,Reno #5,Latte,Medium,5,4.13,20.65,12.95,7.7,7.0
+C2-200230,2023-06-16,Lowell,Massachusetts,East,Lowell #2,Cappuccino,Large,3,4.58,13.74,6.27,7.47,4.36
+C2-200231,2023-10-04,Chicago,Illinois,Central,Chicago #4,Cappuccino,Large,5,5.16,25.8,14.59,11.21,6.76
+C2-200232,2022-09-18,Worcester,Massachusetts,East,Worcester #1,Latte,Medium,4,3.76,15.04,8.41,6.63,3.81
+C2-200233,2022-05-09,New York,New York,East,New York #2,Latte,Medium,5,3.5,17.5,12.24,5.26,2.69
+C2-200234,2024-02-15,North Las Vegas,Nevada,West,North Las Vegas #1,Mocha,Small,4,4.19,16.76,10.87,5.89,2.62
+C2-200235,2024-01-21,Springfield,Illinois,Central,Springfield #5,Cold Brew,Small,4,4.44,17.76,11.06,6.7,1.42
+C2-200236,2024-02-16,North Las Vegas,Nevada,West,North Las Vegas #4,Cold Brew,Medium,2,5.38,10.76,6.47,4.29,1.15
+C2-200237,2024-11-25,Naperville,Illinois,Central,Naperville #4,Cappuccino,Small,5,3.36,16.8,11.43,5.37,7.27
+C2-200238,2023-08-13,Tucson,Arizona,West,Tucson #3,Espresso,Large,4,5.44,21.76,14.82,6.94,2.76
+C2-200239,2022-01-20,Worcester,Massachusetts,East,Worcester #3,Cold Brew,Large,2,5.32,10.64,6.02,4.62,2.6
+C2-200240,2021-02-23,Cambridge,Massachusetts,East,Cambridge #1,Latte,Medium,4,5.26,21.04,14.01,7.03,3.13
+C2-200241,2022-06-25,New York,New York,East,New York #3,Cappuccino,Large,2,4.89,9.78,6.08,3.7,0.96
+C2-200242,2022-12-05,Syracuse,New York,East,Syracuse #1,Cappuccino,Medium,1,3.79,3.79,1.84,1.95,0.49
+C2-200243,2022-05-20,Reno,Nevada,West,Reno #5,Cappuccino,Medium,4,3.5,14.0,9.26,4.74,2.5
+C2-200244,2024-06-14,Cambridge,Massachusetts,East,Cambridge #4,Mocha,Small,1,4.01,4.01,2.39,1.62,1.09
+C2-200245,2021-10-10,Tucson,Arizona,West,Tucson #3,Tea,Medium,3,5.42,16.26,9.38,6.88,2.76
+C2-200246,2024-11-03,Albany,New York,East,Albany #5,Espresso,Large,2,4.06,8.12,4.89,3.23,0.81
+C2-200247,2022-09-24,Las Vegas,Nevada,West,Las Vegas #5,Mocha,Medium,5,3.64,18.2,11.65,6.55,3.93
+C2-200248,2021-05-19,Spokane,Washington,West,Spokane #3,Cappuccino,Small,2,3.35,6.7,3.99,2.71,1.7
+C2-200249,2021-08-31,Tampa,Florida,South,Tampa #3,Mocha,Large,1,6.01,6.01,2.54,3.47,1.44
+C2-200250,2021-01-08,Orlando,Florida,South,Orlando #2,Espresso,Medium,2,3.82,7.64,3.7,3.94,0.87
+C2-200251,2024-11-25,Scottsdale,Arizona,West,Scottsdale #3,Cold Brew,Large,2,4.43,8.86,4.41,4.45,1.16
+C2-200252,2023-11-24,Phoenix,Arizona,West,Phoenix #4,Americano,Small,1,2.6,2.6,1.13,1.47,1.1
+C2-200253,2021-07-23,Dallas,Texas,Central,Dallas #1,Americano,Small,1,4.31,4.31,2.86,1.45,0.44
+C2-200254,2021-09-25,New York,New York,East,New York #1,Latte,Large,4,6.48,25.92,14.94,10.98,0.85
+C2-200255,2024-07-15,Chandler,Arizona,West,Chandler #5,Espresso,Medium,5,5.65,28.25,16.22,12.03,4.3
+C2-200256,2021-11-02,Bellevue,Washington,West,Bellevue #3,Mocha,Small,5,2.54,12.7,7.44,5.26,6.62
+C2-200257,2021-04-07,Tallahassee,Florida,South,Tallahassee #2,Cappuccino,Small,3,3.32,9.96,4.33,5.63,3.18
+C2-200258,2021-08-13,Joliet,Illinois,Central,Joliet #2,Espresso,Small,4,2.83,11.32,4.86,6.46,4.62
+C2-200259,2021-06-25,Denver,Colorado,West,Denver #3,Espresso,Small,1,3.79,3.79,2.44,1.35,0.37
+C2-200260,2023-11-30,Fort Collins,Colorado,West,Fort Collins #3,Espresso,Small,2,2.68,5.36,3.57,1.79,1.38
+C2-200261,2023-02-04,Tucson,Arizona,West,Tucson #3,Mocha,Small,4,2.69,10.76,5.11,5.65,2.33
+C2-200262,2022-10-22,Chandler,Arizona,West,Chandler #1,Espresso,Large,4,4.07,16.28,10.54,5.74,4.65
+C2-200263,2023-05-15,Bellevue,Washington,West,Bellevue #4,Americano,Small,1,2.66,2.66,1.46,1.2,1.04
+C2-200264,2024-09-29,Reno,Nevada,West,Reno #2,Cappuccino,Small,2,3.56,7.12,3.84,3.28,2.43
+C2-200265,2021-12-17,Austin,Texas,Central,Austin #2,Espresso,Small,5,3.48,17.4,8.37,9.03,4.64
+C2-200266,2021-03-27,Reno,Nevada,West,Reno #2,Espresso,Small,2,3.62,7.24,4.38,2.86,0.53
+C2-200267,2021-09-29,Orlando,Florida,South,Orlando #1,Tea,Small,2,3.21,6.42,2.83,3.59,0.73
+C2-200268,2024-01-08,Spokane,Washington,West,Spokane #2,Mocha,Medium,1,3.4,3.4,2.24,1.16,0.57
+C2-200269,2024-11-05,Worcester,Massachusetts,East,Worcester #2,Latte,Large,2,4.41,8.82,4.99,3.83,1.67
+C2-200270,2023-10-17,North Las Vegas,Nevada,West,North Las Vegas #5,Americano,Medium,5,4.48,22.4,15.6,6.8,7.23
+C2-200271,2024-05-25,Mesa,Arizona,West,Mesa #1,Latte,Large,3,4.61,13.83,7.21,6.62,2.89
+C2-200272,2024-07-07,Chicago,Illinois,Central,Chicago #4,Latte,Medium,1,3.24,3.24,1.97,1.27,0.52
+C2-200273,2022-05-29,Tampa,Florida,South,Tampa #2,Cold Brew,Small,1,3.88,3.88,1.6,2.28,1.28
+C2-200274,2024-09-16,Springfield,Massachusetts,East,Springfield #3,Cappuccino,Medium,5,3.47,17.35,7.12,10.23,2.59
+C2-200275,2022-11-30,Aurora,Illinois,Central,Aurora #2,Mocha,Small,1,2.89,2.89,1.76,1.13,0.87
+C2-200276,2023-04-11,Phoenix,Arizona,West,Phoenix #1,Tea,Small,3,3.34,10.02,4.13,5.89,1.17
+C2-200277,2022-11-07,Austin,Texas,Central,Austin #1,Tea,Small,4,4.15,16.6,8.93,7.67,5.39
+C2-200278,2023-09-20,Jacksonville,Florida,South,Jacksonville #4,Latte,Large,5,5.87,29.35,18.9,10.45,2.11
+C2-200279,2022-09-27,Fort Worth,Texas,Central,Fort Worth #5,Espresso,Small,1,3.1,3.1,1.8,1.3,0.57
+C2-200280,2022-11-10,Denver,Colorado,West,Denver #4,Mocha,Medium,3,3.84,11.52,5.09,6.43,3.35
+C2-200281,2021-09-03,Buffalo,New York,East,Buffalo #3,Cappuccino,Medium,5,5.43,27.15,16.4,10.75,6.45
+C2-200282,2022-06-28,Phoenix,Arizona,West,Phoenix #5,Cold Brew,Medium,5,3.62,18.1,8.18,9.92,4.99
+C2-200283,2022-09-01,Colorado Springs,Colorado,West,Colorado Springs #1,Cappuccino,Small,1,2.65,2.65,1.71,0.94,0.92
+C2-200284,2023-07-26,Springfield,Massachusetts,East,Springfield #3,Cappuccino,Large,4,6.84,27.36,16.87,10.49,1.35
+C2-200285,2023-08-10,Houston,Texas,Central,Houston #1,Americano,Large,5,4.13,20.65,13.75,6.9,1.86
+C2-200286,2021-08-08,San Francisco,California,West,San Francisco #5,Cappuccino,Medium,5,4.06,20.3,9.57,10.73,5.91
+C2-200287,2024-05-25,Orlando,Florida,South,Orlando #2,Latte,Small,3,2.55,7.65,4.87,2.78,1.6
+C2-200288,2022-05-14,Boulder,Colorado,West,Boulder #5,Tea,Medium,5,3.43,17.15,10.72,6.43,1.14
+C2-200289,2021-11-22,Sacramento,California,West,Sacramento #3,Espresso,Medium,4,4.87,19.48,9.49,9.99,5.34
+C2-200290,2024-01-24,Mesa,Arizona,West,Mesa #1,Cold Brew,Medium,2,4.22,8.44,4.24,4.2,0.5
+C2-200291,2021-04-30,Los Angeles,California,West,Los Angeles #4,Latte,Large,4,6.54,26.16,15.36,10.8,4.05
+C2-200292,2023-10-27,San Antonio,Texas,Central,San Antonio #5,Cappuccino,Large,2,6.62,13.24,6.22,7.02,2.32
+C2-200293,2021-06-02,Los Angeles,California,West,Los Angeles #2,Latte,Medium,5,3.24,16.2,11.28,4.92,4.47
+C2-200294,2023-11-09,Tampa,Florida,South,Tampa #3,Cappuccino,Medium,3,5.47,16.41,8.05,8.36,2.5
+C2-200295,2021-01-06,Henderson,Nevada,West,Henderson #3,Latte,Large,5,4.28,21.4,10.26,11.14,3.3
+C2-200296,2022-08-31,Worcester,Massachusetts,East,Worcester #3,Mocha,Medium,2,3.34,6.68,4.4,2.28,0.44
+C2-200297,2024-08-05,Phoenix,Arizona,West,Phoenix #4,Americano,Medium,3,4.68,14.04,5.83,8.21,0.83
+C2-200298,2022-01-22,Phoenix,Arizona,West,Phoenix #4,Cappuccino,Small,2,4.08,8.16,5.24,2.92,2.59
+C2-200299,2021-03-14,Everett,Washington,West,Everett #3,Cappuccino,Medium,4,4.09,16.36,7.9,8.46,4.19
+C2-200300,2022-09-29,Fort Worth,Texas,Central,Fort Worth #2,Espresso,Medium,3,4.3,12.9,5.95,6.95,4.35
+C2-200301,2023-11-18,Springfield,Illinois,Central,Springfield #1,Mocha,Medium,3,3.59,10.77,5.7,5.07,2.38
+C2-200302,2024-01-01,Mesa,Arizona,West,Mesa #5,Cold Brew,Large,3,4.91,14.73,9.88,4.85,3.74
+C2-200303,2021-04-10,Orlando,Florida,South,Orlando #3,Mocha,Medium,2,5.15,10.3,5.15,5.15,1.4
+C2-200304,2023-06-07,Sparks,Nevada,West,Sparks #2,Latte,Small,4,2.92,11.68,6.15,5.53,2.03
+C2-200305,2024-08-09,Boulder,Colorado,West,Boulder #3,Latte,Medium,2,5.03,10.06,4.29,5.77,2.61
+C2-200306,2024-12-01,Dallas,Texas,Central,Dallas #2,Latte,Small,5,3.78,18.9,9.79,9.11,1.6
+C2-200307,2021-01-06,San Jose,California,West,San Jose #5,Latte,Medium,1,3.57,3.57,1.79,1.78,0.39
+C2-200308,2024-08-01,Buffalo,New York,East,Buffalo #3,Cappuccino,Medium,4,4.93,19.72,12.75,6.97,2.37
+C2-200309,2021-11-02,Cambridge,Massachusetts,East,Cambridge #3,Americano,Medium,1,3.78,3.78,1.67,2.11,0.83
+C2-200310,2022-07-12,Joliet,Illinois,Central,Joliet #1,Tea,Large,4,6.17,24.68,10.44,14.24,2.91
+C2-200311,2023-06-09,Chicago,Illinois,Central,Chicago #2,Mocha,Medium,2,5.34,10.68,5.62,5.06,1.77
+C2-200312,2024-02-05,Naperville,Illinois,Central,Naperville #5,Mocha,Medium,2,4.88,9.76,4.33,5.43,2.98
+C2-200313,2024-02-02,Spokane,Washington,West,Spokane #4,Cappuccino,Medium,4,5.0,20.0,13.33,6.67,3.17
+C2-200314,2021-08-30,Boulder,Colorado,West,Boulder #1,Cappuccino,Medium,4,3.21,12.84,5.97,6.87,2.34
+C2-200315,2024-10-13,Aurora,Illinois,Central,Aurora #5,Cappuccino,Medium,1,5.66,5.66,3.7,1.96,1.29
+C2-200316,2022-03-22,Dallas,Texas,Central,Dallas #1,Mocha,Small,3,3.99,11.97,5.51,6.46,1.63
+C2-200317,2022-03-25,North Las Vegas,Nevada,West,North Las Vegas #5,Mocha,Large,2,5.12,10.24,6.5,3.74,0.94
+C2-200318,2023-11-30,Chicago,Illinois,Central,Chicago #5,Mocha,Small,3,3.43,10.29,6.13,4.16,2.99
+C2-200319,2021-03-21,San Diego,California,West,San Diego #2,Cold Brew,Large,5,6.14,30.7,17.6,13.1,7.39
+C2-200320,2023-03-16,San Jose,California,West,San Jose #3,Latte,Small,3,2.6,7.8,4.18,3.62,3.3
+C2-200321,2023-10-20,Fort Worth,Texas,Central,Fort Worth #1,Cappuccino,Large,3,6.51,19.53,13.13,6.4,3.81
+C2-200322,2021-10-10,Henderson,Nevada,West,Henderson #1,Mocha,Medium,4,5.74,22.96,11.18,11.78,2.95
+C2-200323,2024-08-12,New York,New York,East,New York #5,Latte,Medium,1,3.49,3.49,2.05,1.44,0.94
+C2-200324,2022-06-26,Fort Collins,Colorado,West,Fort Collins #3,Cappuccino,Small,5,3.66,18.3,9.68,8.62,4.08
+C2-200325,2021-04-12,Fort Worth,Texas,Central,Fort Worth #4,Espresso,Medium,1,3.23,3.23,1.51,1.72,0.69
+C2-200326,2024-07-07,Aurora,Illinois,Central,Aurora #1,Latte,Small,4,2.5,10.0,5.04,4.96,2.68
+C2-200327,2024-10-17,San Jose,California,West,San Jose #4,Mocha,Medium,3,3.22,9.66,5.7,3.96,1.86
+C2-200328,2022-10-23,Phoenix,Arizona,West,Phoenix #2,Mocha,Medium,4,3.65,14.6,8.77,5.83,4.63
+C2-200329,2022-12-17,Miami,Florida,South,Miami #3,Latte,Medium,5,5.0,25.0,15.55,9.45,5.38
+C2-200330,2021-05-31,Fort Collins,Colorado,West,Fort Collins #1,Latte,Large,3,6.91,20.73,11.19,9.54,4.24
+C2-200331,2024-12-29,Bellevue,Washington,West,Bellevue #1,Mocha,Small,5,3.41,17.05,10.85,6.2,3.11
+C2-200332,2021-04-16,Chandler,Arizona,West,Chandler #1,Latte,Medium,4,3.67,14.68,6.96,7.72,1.27
+C2-200333,2021-07-05,Rochester,New York,East,Rochester #5,Cappuccino,Small,4,3.55,14.2,9.61,4.59,4.1
+C2-200334,2022-01-27,Sacramento,California,West,Sacramento #2,Mocha,Medium,5,4.36,21.8,11.87,9.93,6.0
+C2-200335,2023-01-20,Houston,Texas,Central,Houston #2,Latte,Small,2,4.28,8.56,4.04,4.52,1.23
+C2-200336,2022-07-12,Rochester,New York,East,Rochester #4,Mocha,Large,4,7.01,28.04,18.26,9.78,4.99
+C2-200337,2022-06-19,Aurora,Illinois,Central,Aurora #2,Cold Brew,Small,5,2.58,12.9,7.52,5.38,5.48
+C2-200338,2023-01-14,San Jose,California,West,San Jose #5,Cold Brew,Small,2,2.6,5.2,3.05,2.15,1.94
+C2-200339,2024-04-29,Springfield,Illinois,Central,Springfield #5,Latte,Medium,4,3.48,13.92,8.89,5.03,0.86
+C2-200340,2022-05-11,Seattle,Washington,West,Seattle #5,Cold Brew,Small,3,2.83,8.49,4.27,4.22,1.6
+C2-200341,2022-07-14,Boston,Massachusetts,East,Boston #2,Cappuccino,Medium,2,3.91,7.82,4.8,3.02,2.01
+C2-200342,2021-01-01,Reno,Nevada,West,Reno #4,Cold Brew,Large,4,6.77,27.08,13.02,14.06,5.92
+C2-200343,2024-04-07,Chandler,Arizona,West,Chandler #4,Tea,Medium,4,4.99,19.96,12.37,7.59,4.71
+C2-200344,2024-03-11,Dallas,Texas,Central,Dallas #3,Americano,Medium,2,5.33,10.66,6.79,3.87,1.95
+C2-200345,2021-07-24,Aurora,Colorado,West,Aurora #5,Mocha,Large,5,5.02,25.1,15.49,9.61,4.51
+C2-200346,2022-08-25,Spokane,Washington,West,Spokane #3,Latte,Medium,2,3.56,7.12,3.77,3.35,1.76
+C2-200347,2022-10-03,Reno,Nevada,West,Reno #5,Espresso,Large,2,5.96,11.92,7.47,4.45,0.73
+C2-200348,2021-03-07,Tucson,Arizona,West,Tucson #5,Latte,Medium,3,3.83,11.49,5.47,6.02,1.03
+C2-200349,2023-11-19,Rochester,New York,East,Rochester #2,Latte,Medium,4,5.61,22.44,11.14,11.3,1.34
+C2-200350,2024-12-04,New York,New York,East,New York #1,Latte,Large,3,5.51,16.53,7.77,8.76,2.36
+C2-200351,2021-10-14,Dallas,Texas,Central,Dallas #5,Espresso,Small,4,3.83,15.32,10.36,4.96,2.14
+C2-200352,2021-09-04,Henderson,Nevada,West,Henderson #5,Cold Brew,Small,1,3.31,3.31,2.14,1.17,1.0
+C2-200353,2023-01-27,Miami,Florida,South,Miami #2,Tea,Small,3,2.97,8.91,5.99,2.92,3.58
+C2-200354,2022-01-01,Everett,Washington,West,Everett #1,Cold Brew,Small,1,3.28,3.28,1.37,1.91,1.5
+C2-200355,2024-08-28,Aurora,Illinois,Central,Aurora #2,Latte,Medium,4,3.25,13.0,7.76,5.24,3.99
+C2-200356,2023-04-02,Worcester,Massachusetts,East,Worcester #2,Cappuccino,Small,2,3.75,7.5,4.73,2.77,0.8
+C2-200357,2022-04-11,Reno,Nevada,West,Reno #3,Mocha,Medium,5,3.38,16.9,10.84,6.06,7.0
+C2-200358,2021-05-03,Los Angeles,California,West,Los Angeles #3,Mocha,Medium,4,4.58,18.32,11.19,7.13,3.42
+C2-200359,2021-07-24,San Jose,California,West,San Jose #2,Tea,Medium,2,5.53,11.06,5.71,5.35,1.72
+C2-200360,2021-11-24,San Antonio,Texas,Central,San Antonio #1,Cold Brew,Medium,4,4.32,17.28,7.78,9.5,5.82
+C2-200361,2021-05-06,Fort Collins,Colorado,West,Fort Collins #1,Latte,Medium,5,4.62,23.1,16.13,6.97,3.79
+C2-200362,2023-01-13,Boston,Massachusetts,East,Boston #1,Tea,Large,2,4.91,9.82,5.93,3.89,2.7
+C2-200363,2024-01-26,Denver,Colorado,West,Denver #3,Espresso,Medium,1,3.81,3.81,1.86,1.95,0.71
+C2-200364,2023-06-29,Spokane,Washington,West,Spokane #5,Espresso,Large,2,5.8,11.6,5.15,6.45,1.5
+C2-200365,2022-09-01,Fort Collins,Colorado,West,Fort Collins #1,Mocha,Medium,1,3.98,3.98,1.61,2.37,0.79
+C2-200366,2022-02-25,Bellevue,Washington,West,Bellevue #3,Mocha,Medium,1,4.18,4.18,2.57,1.61,0.29
+C2-200367,2022-05-16,Jacksonville,Florida,South,Jacksonville #5,Latte,Large,3,6.45,19.35,9.48,9.87,3.19
+C2-200368,2021-02-16,Sacramento,California,West,Sacramento #4,Latte,Medium,3,5.25,15.75,10.41,5.34,2.63
+C2-200369,2022-12-03,Scottsdale,Arizona,West,Scottsdale #4,Americano,Medium,3,5.39,16.17,7.2,8.97,2.11
+C2-200370,2023-11-15,San Jose,California,West,San Jose #3,Latte,Medium,4,3.29,13.16,8.81,4.35,5.06
+C2-200371,2023-02-06,Phoenix,Arizona,West,Phoenix #1,Cold Brew,Medium,3,5.71,17.13,6.97,10.16,3.05
+C2-200372,2021-12-02,San Antonio,Texas,Central,San Antonio #1,Espresso,Medium,1,5.74,5.74,2.77,2.97,1.0
+C2-200373,2023-01-28,Henderson,Nevada,West,Henderson #2,Mocha,Large,5,5.27,26.35,17.57,8.78,3.16
+C2-200374,2021-06-06,Orlando,Florida,South,Orlando #3,Tea,Medium,5,4.8,24.0,12.41,11.59,1.08
+C2-200375,2021-09-12,Houston,Texas,Central,Houston #1,Mocha,Small,3,3.27,9.81,4.66,5.15,1.17
+C2-200376,2023-04-07,Dallas,Texas,Central,Dallas #2,Americano,Large,3,6.24,18.72,11.02,7.7,4.14
+C2-200377,2023-01-30,Boulder,Colorado,West,Boulder #1,Latte,Medium,2,5.24,10.48,4.37,6.11,2.15
+C2-200378,2021-08-27,Reno,Nevada,West,Reno #2,Cappuccino,Medium,1,5.72,5.72,3.47,2.25,1.14
+C2-200379,2023-01-24,Chandler,Arizona,West,Chandler #1,Espresso,Small,3,3.52,10.56,7.0,3.56,2.98
+C2-200380,2023-06-02,Springfield,Illinois,Central,Springfield #5,Espresso,Large,1,6.72,6.72,4.06,2.66,0.52
+C2-200381,2024-11-17,Chandler,Arizona,West,Chandler #5,Latte,Medium,5,5.4,27.0,15.35,11.65,4.4
+C2-200382,2023-08-10,Boulder,Colorado,West,Boulder #3,Espresso,Small,3,4.02,12.06,4.91,7.15,0.8
+C2-200383,2024-08-14,Phoenix,Arizona,West,Phoenix #3,Latte,Medium,4,4.4,17.6,9.46,8.14,1.85
+C2-200384,2021-09-25,Phoenix,Arizona,West,Phoenix #5,Latte,Small,3,2.79,8.37,5.53,2.84,1.29
+C2-200385,2022-02-11,San Antonio,Texas,Central,San Antonio #4,Cappuccino,Large,4,5.56,22.24,13.28,8.96,1.01
+C2-200386,2023-04-10,Lowell,Massachusetts,East,Lowell #4,Mocha,Small,2,3.59,7.18,4.53,2.65,2.84
+C2-200387,2022-05-11,Fort Collins,Colorado,West,Fort Collins #4,Latte,Medium,1,5.16,5.16,3.61,1.55,0.25
+C2-200388,2023-02-22,New York,New York,East,New York #5,Cappuccino,Large,1,5.3,5.3,3.18,2.12,0.69
+C2-200389,2022-04-13,North Las Vegas,Nevada,West,North Las Vegas #3,Cappuccino,Large,5,4.49,22.45,12.23,10.22,5.39
+C2-200390,2024-01-19,Tallahassee,Florida,South,Tallahassee #4,Cappuccino,Large,3,5.34,16.02,8.4,7.62,1.0
+C2-200391,2022-06-14,Miami,Florida,South,Miami #2,Mocha,Small,3,3.62,10.86,5.22,5.64,3.09
+C2-200392,2021-05-29,Colorado Springs,Colorado,West,Colorado Springs #5,Cappuccino,Small,1,3.53,3.53,2.18,1.35,1.01
+C2-200393,2022-10-17,Boston,Massachusetts,East,Boston #3,Cold Brew,Large,3,4.38,13.14,5.87,7.27,4.2
+C2-200394,2024-05-03,Syracuse,New York,East,Syracuse #1,Cappuccino,Medium,3,3.75,11.25,5.95,5.3,4.26
+C2-200395,2021-12-15,Lowell,Massachusetts,East,Lowell #1,Espresso,Medium,1,4.79,4.79,3.34,1.45,1.37
+C2-200396,2021-11-02,Cambridge,Massachusetts,East,Cambridge #4,Latte,Large,3,4.5,13.5,6.02,7.48,0.65
+C2-200397,2021-09-23,Houston,Texas,Central,Houston #2,Cold Brew,Medium,3,5.21,15.63,8.23,7.4,3.62
+C2-200398,2023-01-04,Tampa,Florida,South,Tampa #2,Latte,Medium,2,5.12,10.24,6.41,3.83,1.33
+C2-200399,2023-01-28,Phoenix,Arizona,West,Phoenix #2,Espresso,Medium,1,4.16,4.16,1.78,2.38,0.97
+C2-200400,2022-04-30,Fort Collins,Colorado,West,Fort Collins #5,Cappuccino,Large,4,6.17,24.68,13.78,10.9,1.88
+C2-200401,2023-08-07,Joliet,Illinois,Central,Joliet #5,Cold Brew,Large,5,5.87,29.35,20.25,9.1,6.92
+C2-200402,2023-04-19,San Francisco,California,West,San Francisco #4,Latte,Small,1,3.47,3.47,1.4,2.07,0.51
+C2-200403,2021-02-12,Aurora,Colorado,West,Aurora #2,Tea,Medium,1,5.38,5.38,2.33,3.05,1.47
+C2-200404,2024-10-17,Mesa,Arizona,West,Mesa #3,Espresso,Medium,1,4.26,4.26,2.78,1.48,1.03
+C2-200405,2022-09-24,Rochester,New York,East,Rochester #4,Latte,Medium,3,5.27,15.81,8.46,7.35,1.69
+C2-200406,2022-09-04,North Las Vegas,Nevada,West,North Las Vegas #4,Mocha,Large,4,4.61,18.44,9.6,8.84,4.94
+C2-200407,2021-07-14,Henderson,Nevada,West,Henderson #5,Latte,Small,4,4.06,16.24,7.9,8.34,1.41
+C2-200408,2021-08-31,Buffalo,New York,East,Buffalo #2,Latte,Small,4,2.56,10.24,5.93,4.31,4.38
+C2-200409,2023-08-13,Springfield,Illinois,Central,Springfield #4,Cappuccino,Large,5,4.16,20.8,13.37,7.43,4.8
+C2-200410,2023-08-31,Denver,Colorado,West,Denver #5,Cold Brew,Small,3,2.5,7.5,3.58,3.92,2.5
+C2-200411,2024-04-14,Aurora,Colorado,West,Aurora #2,Cappuccino,Medium,5,3.76,18.8,11.67,7.13,1.52
+C2-200412,2021-06-24,Syracuse,New York,East,Syracuse #5,Espresso,Medium,3,4.5,13.5,8.86,4.64,3.26
+C2-200413,2021-01-07,Buffalo,New York,East,Buffalo #4,Americano,Medium,3,4.51,13.53,6.74,6.79,1.0
+C2-200414,2024-07-08,Rochester,New York,East,Rochester #3,Tea,Small,3,3.83,11.49,5.12,6.37,3.38
+C2-200415,2021-01-17,Denver,Colorado,West,Denver #2,Latte,Medium,2,4.41,8.82,4.35,4.47,2.88
+C2-200416,2021-10-25,Rochester,New York,East,Rochester #2,Mocha,Medium,5,4.61,23.05,9.79,13.26,4.55
+C2-200417,2022-09-23,Scottsdale,Arizona,West,Scottsdale #2,Latte,Small,4,3.57,14.28,7.33,6.95,4.07
+C2-200418,2024-09-21,Springfield,Illinois,Central,Springfield #3,Espresso,Medium,3,4.75,14.25,6.79,7.46,1.65
+C2-200419,2022-05-12,Scottsdale,Arizona,West,Scottsdale #3,Cappuccino,Small,1,3.2,3.2,2.23,0.97,0.8
+C2-200420,2024-10-17,Aurora,Colorado,West,Aurora #2,Latte,Medium,4,4.23,16.92,8.91,8.01,5.89
+C2-200421,2022-02-12,Seattle,Washington,West,Seattle #4,Latte,Medium,2,4.83,9.66,4.82,4.84,0.56
+C2-200422,2024-03-10,Tacoma,Washington,West,Tacoma #4,Mocha,Large,4,6.34,25.36,12.93,12.43,4.09
+C2-200423,2023-12-28,Worcester,Massachusetts,East,Worcester #4,Mocha,Medium,2,5.53,11.06,7.47,3.59,0.81
+C2-200424,2023-04-21,Albany,New York,East,Albany #5,Tea,Medium,4,5.37,21.48,13.0,8.48,1.82
+C2-200425,2021-07-04,Phoenix,Arizona,West,Phoenix #3,Cold Brew,Medium,5,3.91,19.55,13.59,5.96,5.69
+C2-200426,2022-04-25,Chandler,Arizona,West,Chandler #1,Tea,Medium,3,4.53,13.59,6.55,7.04,1.7
+C2-200427,2023-12-13,Jacksonville,Florida,South,Jacksonville #1,Tea,Medium,2,4.91,9.82,3.96,5.86,2.45
+C2-200428,2023-07-31,Naperville,Illinois,Central,Naperville #4,Cappuccino,Medium,3,3.92,11.76,6.17,5.59,4.09
+C2-200429,2021-07-17,Miami,Florida,South,Miami #4,Cappuccino,Small,4,2.71,10.84,6.5,4.34,2.19
+C2-200430,2021-06-15,Seattle,Washington,West,Seattle #1,Tea,Small,4,4.41,17.64,8.78,8.86,3.7
+C2-200431,2023-10-23,Austin,Texas,Central,Austin #3,Espresso,Medium,2,5.48,10.96,5.28,5.68,2.8
+C2-200432,2024-12-20,San Antonio,Texas,Central,San Antonio #4,Latte,Small,2,3.81,7.62,3.58,4.04,1.89
+C2-200433,2024-12-01,Miami,Florida,South,Miami #3,Latte,Small,1,3.99,3.99,1.95,2.04,0.39
+C2-200434,2024-09-13,Colorado Springs,Colorado,West,Colorado Springs #2,Tea,Small,3,3.52,10.56,6.78,3.78,3.3
+C2-200435,2024-01-03,Mesa,Arizona,West,Mesa #4,Mocha,Medium,2,4.92,9.84,5.06,4.78,2.55
+C2-200436,2024-09-01,New York,New York,East,New York #4,Latte,Medium,2,3.79,7.58,4.52,3.06,1.73
+C2-200437,2021-08-11,Rochester,New York,East,Rochester #2,Americano,Medium,3,3.96,11.88,5.09,6.79,0.7
+C2-200438,2024-09-27,Boston,Massachusetts,East,Boston #3,Cold Brew,Medium,1,4.32,4.32,2.57,1.75,1.42
+C2-200439,2021-05-26,Syracuse,New York,East,Syracuse #2,Cold Brew,Large,4,6.85,27.4,13.79,13.61,4.52
+C2-200440,2021-09-05,Las Vegas,Nevada,West,Las Vegas #4,Mocha,Large,2,4.15,8.3,5.44,2.86,1.29
+C2-200441,2022-08-17,Tallahassee,Florida,South,Tallahassee #1,Latte,Medium,3,5.58,16.74,10.7,6.04,1.51
+C2-200442,2023-06-17,Buffalo,New York,East,Buffalo #3,Cold Brew,Medium,3,4.3,12.9,7.94,4.96,2.39
+C2-200443,2021-07-07,Dallas,Texas,Central,Dallas #3,Mocha,Small,3,3.04,9.12,5.55,3.57,0.71
+C2-200444,2024-07-11,Seattle,Washington,West,Seattle #4,Espresso,Medium,2,5.16,10.32,4.44,5.88,2.31
+C2-200445,2023-05-04,Naperville,Illinois,Central,Naperville #4,Latte,Medium,5,5.19,25.95,12.48,13.47,5.25
+C2-200446,2024-11-15,Austin,Texas,Central,Austin #2,Latte,Medium,1,5.44,5.44,2.26,3.18,0.93
+C2-200447,2023-07-20,Springfield,Massachusetts,East,Springfield #4,Espresso,Small,3,2.93,8.79,5.96,2.83,4.19
+C2-200448,2023-03-29,Cambridge,Massachusetts,East,Cambridge #5,Mocha,Small,4,3.03,12.12,5.6,6.52,2.73
+C2-200449,2024-10-24,Henderson,Nevada,West,Henderson #2,Mocha,Small,4,2.63,10.52,6.24,4.28,4.22
+C2-200450,2024-10-26,Sparks,Nevada,West,Sparks #2,Americano,Small,1,3.25,3.25,1.8,1.45,0.26
+C2-200451,2021-08-18,New York,New York,East,New York #3,Tea,Small,4,4.49,17.96,10.24,7.72,2.94
+C2-200452,2023-01-16,Cambridge,Massachusetts,East,Cambridge #4,Mocha,Medium,1,5.24,5.24,2.16,3.08,1.0
+C2-200453,2023-11-05,Boston,Massachusetts,East,Boston #4,Latte,Large,2,4.02,8.04,3.4,4.64,2.44
+C2-200454,2024-08-02,Naperville,Illinois,Central,Naperville #4,Latte,Small,5,3.73,18.65,12.4,6.25,2.72
+C2-200455,2023-09-23,Houston,Texas,Central,Houston #1,Tea,Small,4,4.05,16.2,8.24,7.96,2.86
+C2-200456,2023-03-01,Phoenix,Arizona,West,Phoenix #4,Latte,Small,4,3.87,15.48,7.67,7.81,5.31
+C2-200457,2024-09-04,Henderson,Nevada,West,Henderson #3,Latte,Large,3,6.11,18.33,11.88,6.45,1.68
+C2-200458,2024-06-03,San Antonio,Texas,Central,San Antonio #1,Latte,Medium,3,5.22,15.66,7.91,7.75,1.55
+C2-200459,2023-11-26,Scottsdale,Arizona,West,Scottsdale #4,Latte,Large,2,6.09,12.18,6.02,6.16,0.46
+C2-200460,2024-12-07,Aurora,Illinois,Central,Aurora #5,Tea,Small,2,4.37,8.74,4.82,3.92,2.58
+C2-200461,2022-02-19,Boulder,Colorado,West,Boulder #2,Tea,Small,1,4.4,4.4,1.89,2.51,1.03
+C2-200462,2023-06-11,Los Angeles,California,West,Los Angeles #1,Mocha,Medium,3,4.41,13.23,8.24,4.99,4.47
+C2-200463,2022-02-07,Orlando,Florida,South,Orlando #4,Americano,Medium,2,4.34,8.68,5.05,3.63,2.56
+C2-200464,2022-10-17,Naperville,Illinois,Central,Naperville #3,Cappuccino,Small,2,4.19,8.38,4.33,4.05,0.74
+C2-200465,2021-12-17,Springfield,Illinois,Central,Springfield #3,Latte,Small,2,4.44,8.88,5.8,3.08,0.79
+C2-200466,2021-09-13,Fort Collins,Colorado,West,Fort Collins #4,Cappuccino,Medium,4,4.69,18.76,8.64,10.12,1.09
+C2-200467,2022-06-24,San Diego,California,West,San Diego #1,Cold Brew,Large,5,4.12,20.6,12.38,8.22,4.25
+C2-200468,2023-02-19,Fort Worth,Texas,Central,Fort Worth #1,Espresso,Medium,2,4.76,9.52,4.93,4.59,2.2
+C2-200469,2024-08-24,San Francisco,California,West,San Francisco #3,Latte,Medium,4,4.2,16.8,7.68,9.12,4.97
+C2-200470,2021-12-08,Tallahassee,Florida,South,Tallahassee #2,Cold Brew,Medium,2,4.19,8.38,5.12,3.26,2.45
+C2-200471,2022-12-07,Tacoma,Washington,West,Tacoma #4,Mocha,Medium,2,4.22,8.44,4.52,3.92,1.97
+C2-200472,2024-05-05,Cambridge,Massachusetts,East,Cambridge #1,Latte,Medium,2,4.35,8.7,4.49,4.21,0.93
+C2-200473,2024-07-25,Bellevue,Washington,West,Bellevue #1,Espresso,Small,4,3.23,12.92,7.0,5.92,2.07
+C2-200474,2022-03-16,Miami,Florida,South,Miami #5,Espresso,Small,2,2.51,5.02,3.06,1.96,2.82
+C2-200475,2023-06-28,Sacramento,California,West,Sacramento #1,Tea,Medium,2,5.05,10.1,6.95,3.15,2.42
+C2-200476,2023-09-20,Fort Collins,Colorado,West,Fort Collins #4,Espresso,Small,5,4.16,20.8,9.23,11.57,3.49
+C2-200477,2022-02-16,New York,New York,East,New York #3,Mocha,Medium,1,3.98,3.98,2.72,1.26,0.97
+C2-200478,2021-02-07,Cambridge,Massachusetts,East,Cambridge #5,Cold Brew,Large,1,4.08,4.08,2.4,1.68,1.06
+C2-200479,2021-08-01,Aurora,Illinois,Central,Aurora #3,Espresso,Large,1,6.34,6.34,3.91,2.43,1.49
+C2-200480,2024-10-20,Tacoma,Washington,West,Tacoma #4,Mocha,Medium,2,5.07,10.14,5.14,5.0,0.74
+C2-200481,2024-06-14,Henderson,Nevada,West,Henderson #4,Americano,Medium,2,4.2,8.4,4.71,3.69,0.55
+C2-200482,2021-11-11,San Antonio,Texas,Central,San Antonio #3,Espresso,Small,2,3.32,6.64,4.09,2.55,1.35
+C2-200483,2023-12-25,Henderson,Nevada,West,Henderson #3,Cold Brew,Small,4,2.7,10.8,4.49,6.31,1.14
+C2-200484,2023-05-13,Fort Worth,Texas,Central,Fort Worth #1,Tea,Medium,3,4.81,14.43,6.57,7.86,2.71
+C2-200485,2022-07-17,Lowell,Massachusetts,East,Lowell #4,Latte,Medium,5,4.64,23.2,10.15,13.05,5.25
+C2-200486,2024-10-21,Tucson,Arizona,West,Tucson #4,Espresso,Large,3,4.24,12.72,5.88,6.84,1.76
+C2-200487,2024-04-21,Phoenix,Arizona,West,Phoenix #3,Latte,Medium,5,3.27,16.35,11.27,5.08,1.98
+C2-200488,2021-09-08,Aurora,Illinois,Central,Aurora #3,Cold Brew,Medium,4,4.89,19.56,13.16,6.4,5.04
+C2-200489,2022-08-30,Everett,Washington,West,Everett #2,Espresso,Small,4,4.16,16.64,7.42,9.22,2.28
+C2-200490,2023-02-06,Denver,Colorado,West,Denver #1,Cappuccino,Small,2,4.48,8.96,4.02,4.94,2.61
+C2-200491,2022-11-18,Houston,Texas,Central,Houston #2,Cappuccino,Medium,2,5.65,11.3,6.09,5.21,2.81
+C2-200492,2021-06-08,Houston,Texas,Central,Houston #4,Latte,Small,3,2.69,8.07,3.41,4.66,3.54
+C2-200493,2022-02-17,Boston,Massachusetts,East,Boston #3,Cappuccino,Medium,5,5.43,27.15,17.66,9.49,1.06
+C2-200494,2021-08-03,Everett,Washington,West,Everett #3,Mocha,Small,1,3.33,3.33,1.75,1.58,0.71
+C2-200495,2024-07-27,Springfield,Illinois,Central,Springfield #3,Americano,Medium,4,4.2,16.8,10.9,5.9,1.78
+C2-200496,2022-06-12,Worcester,Massachusetts,East,Worcester #5,Cappuccino,Medium,4,4.91,19.64,11.72,7.92,1.91
+C2-200497,2023-05-01,Jacksonville,Florida,South,Jacksonville #4,Mocha,Small,1,3.41,3.41,1.93,1.48,1.07
+C2-200498,2024-08-27,Fort Collins,Colorado,West,Fort Collins #2,Espresso,Medium,2,3.8,7.6,3.3,4.3,0.74
+C2-200499,2022-04-03,Boston,Massachusetts,East,Boston #5,Latte,Large,1,4.61,4.61,3.06,1.55,0.38
+C2-200500,2023-01-03,Phoenix,Arizona,West,Phoenix #1,Latte,Medium,3,3.24,9.72,5.24,4.48,3.32
+C2-200501,2021-03-10,Henderson,Nevada,West,Henderson #2,Latte,Small,3,2.9,8.7,4.81,3.89,3.07
+C2-200502,2024-12-13,Tacoma,Washington,West,Tacoma #5,Latte,Medium,4,5.49,21.96,10.24,11.72,4.02
+C2-200503,2024-10-16,Springfield,Illinois,Central,Springfield #2,Latte,Medium,2,3.21,6.42,4.49,1.93,1.02
+C2-200504,2021-10-04,Springfield,Massachusetts,East,Springfield #2,Tea,Medium,5,5.76,28.8,18.15,10.65,4.4
+C2-200505,2023-08-15,Houston,Texas,Central,Houston #2,Latte,Medium,2,4.52,9.04,5.4,3.64,2.11
+C2-200506,2021-05-13,Sparks,Nevada,West,Sparks #3,Mocha,Small,5,4.39,21.95,9.93,12.02,1.98
+C2-200507,2022-04-09,Joliet,Illinois,Central,Joliet #1,Espresso,Medium,3,3.96,11.88,5.9,5.98,1.9
+C2-200508,2021-04-22,Phoenix,Arizona,West,Phoenix #1,Espresso,Medium,1,5.72,5.72,3.42,2.3,0.97
+C2-200509,2024-08-19,New York,New York,East,New York #3,Cappuccino,Small,5,3.41,17.05,8.45,8.6,4.16
+C2-200510,2024-08-22,Miami,Florida,South,Miami #5,Americano,Small,5,2.73,13.65,5.86,7.79,1.4
+C2-200511,2021-03-28,Fort Worth,Texas,Central,Fort Worth #4,Cold Brew,Medium,2,5.05,10.1,6.28,3.82,2.71
+C2-200512,2021-07-15,Chandler,Arizona,West,Chandler #4,Mocha,Small,5,2.67,13.35,7.02,6.33,1.6
+C2-200513,2021-09-05,San Diego,California,West,San Diego #2,Tea,Medium,5,4.23,21.15,10.37,10.78,5.38
+C2-200514,2024-07-06,Denver,Colorado,West,Denver #5,Espresso,Medium,3,5.6,16.8,11.29,5.51,1.4
+C2-200515,2023-12-22,Scottsdale,Arizona,West,Scottsdale #2,Latte,Medium,4,3.26,13.04,7.79,5.25,3.04
+C2-200516,2024-11-19,Syracuse,New York,East,Syracuse #1,Tea,Medium,3,5.43,16.29,10.3,5.99,1.01
+C2-200517,2021-04-06,Boston,Massachusetts,East,Boston #2,Cappuccino,Medium,5,3.78,18.9,10.2,8.7,3.35
+C2-200518,2021-03-05,Denver,Colorado,West,Denver #2,Latte,Medium,3,3.5,10.5,4.82,5.68,3.74
+C2-200519,2021-12-10,Tucson,Arizona,West,Tucson #5,Latte,Small,1,3.29,3.29,1.56,1.73,0.9
+C2-200520,2021-06-26,Jacksonville,Florida,South,Jacksonville #2,Mocha,Medium,5,4.08,20.4,14.12,6.28,4.14
+C2-200521,2021-09-18,Lowell,Massachusetts,East,Lowell #4,Cappuccino,Medium,3,5.32,15.96,8.77,7.19,1.89
+C2-200522,2023-09-16,Orlando,Florida,South,Orlando #2,Cold Brew,Small,1,3.3,3.3,2.15,1.15,0.73
+C2-200523,2022-03-07,Boston,Massachusetts,East,Boston #3,Cold Brew,Small,1,3.76,3.76,1.92,1.84,0.89
+C2-200524,2022-11-24,Rochester,New York,East,Rochester #3,Cold Brew,Medium,1,4.43,4.43,1.84,2.59,0.85
+C2-200525,2023-04-04,Albany,New York,East,Albany #4,Espresso,Small,1,2.79,2.79,1.32,1.47,1.05
+C2-200526,2024-10-02,Phoenix,Arizona,West,Phoenix #1,Cappuccino,Medium,1,4.36,4.36,2.59,1.77,1.18
+C2-200527,2024-10-19,Miami,Florida,South,Miami #2,Latte,Small,5,4.25,21.25,10.71,10.54,1.97
+C2-200528,2024-08-13,Springfield,Illinois,Central,Springfield #2,Cold Brew,Large,1,5.15,5.15,3.02,2.13,0.76
+C2-200529,2022-01-19,Seattle,Washington,West,Seattle #2,Americano,Large,4,5.67,22.68,10.65,12.03,1.46
+C2-200530,2022-08-04,Denver,Colorado,West,Denver #2,Latte,Large,4,5.05,20.2,10.32,9.88,4.7
+C2-200531,2023-01-16,Syracuse,New York,East,Syracuse #3,Cappuccino,Small,1,3.65,3.65,2.13,1.52,1.29
+C2-200532,2024-11-25,Aurora,Illinois,Central,Aurora #1,Espresso,Medium,2,3.47,6.94,4.04,2.9,1.95
+C2-200533,2024-02-22,San Diego,California,West,San Diego #3,Tea,Medium,1,5.11,5.11,3.43,1.68,0.54
+C2-200534,2024-05-31,Boston,Massachusetts,East,Boston #5,Latte,Small,5,2.69,13.45,8.62,4.83,7.4
+C2-200535,2022-03-10,Orlando,Florida,South,Orlando #1,Latte,Medium,1,5.68,5.68,3.85,1.83,0.35
+C2-200536,2023-06-01,Springfield,Illinois,Central,Springfield #2,Americano,Small,5,2.64,13.2,8.42,4.78,3.45
+C2-200537,2023-09-04,Mesa,Arizona,West,Mesa #5,Latte,Medium,5,4.05,20.25,8.48,11.77,7.23
+C2-200538,2024-06-23,Boulder,Colorado,West,Boulder #2,Cappuccino,Large,5,6.58,32.9,15.93,16.97,3.41
+C2-200539,2022-02-07,Fort Collins,Colorado,West,Fort Collins #3,Mocha,Large,3,6.35,19.05,11.38,7.67,2.62
+C2-200540,2023-02-24,San Francisco,California,West,San Francisco #3,Latte,Medium,4,4.4,17.6,8.75,8.85,5.08
+C2-200541,2022-05-17,Fort Collins,Colorado,West,Fort Collins #2,Espresso,Medium,2,3.71,7.42,4.43,2.99,0.43
+C2-200542,2023-05-27,Cambridge,Massachusetts,East,Cambridge #1,Tea,Medium,2,4.77,9.54,5.81,3.73,2.67
+C2-200543,2021-07-09,Sacramento,California,West,Sacramento #4,Espresso,Medium,2,4.61,9.22,5.86,3.36,2.98
+C2-200544,2024-07-07,San Francisco,California,West,San Francisco #2,Latte,Large,4,5.33,21.32,9.58,11.74,5.24
+C2-200545,2024-10-09,San Francisco,California,West,San Francisco #2,Latte,Small,1,4.21,4.21,1.86,2.35,0.37
+C2-200546,2022-10-16,Mesa,Arizona,West,Mesa #5,Latte,Medium,1,4.8,4.8,3.02,1.78,0.33
+C2-200547,2022-11-01,Tucson,Arizona,West,Tucson #2,Latte,Medium,4,3.67,14.68,10.07,4.61,3.31
+C2-200548,2024-10-01,Denver,Colorado,West,Denver #4,Mocha,Large,4,5.19,20.76,13.17,7.59,2.38
+C2-200549,2023-04-26,Springfield,Massachusetts,East,Springfield #5,Americano,Large,2,4.55,9.1,4.17,4.93,1.83
+C2-200550,2023-06-16,Worcester,Massachusetts,East,Worcester #2,Mocha,Small,2,2.85,5.7,2.53,3.17,0.47
+C2-200551,2023-11-22,Miami,Florida,South,Miami #2,Cappuccino,Medium,2,4.01,8.02,3.22,4.8,2.19
+C2-200552,2024-11-29,Dallas,Texas,Central,Dallas #1,Latte,Small,1,3.19,3.19,1.51,1.68,0.28
+C2-200553,2024-06-25,Miami,Florida,South,Miami #4,Mocha,Small,1,2.62,2.62,1.41,1.21,1.43
+C2-200554,2024-05-09,Dallas,Texas,Central,Dallas #5,Tea,Medium,4,4.86,19.44,8.66,10.78,4.14
+C2-200555,2022-01-05,Denver,Colorado,West,Denver #4,Mocha,Small,1,4.0,4.0,2.62,1.38,1.49
+C2-200556,2024-02-05,Bellevue,Washington,West,Bellevue #2,Tea,Medium,1,4.28,4.28,2.27,2.01,1.19
+C2-200557,2024-05-02,Reno,Nevada,West,Reno #4,Cappuccino,Large,1,5.6,5.6,3.25,2.35,1.02
+C2-200558,2024-02-04,Mesa,Arizona,West,Mesa #3,Cold Brew,Medium,5,3.63,18.15,10.4,7.75,5.03
+C2-200559,2023-02-04,Las Vegas,Nevada,West,Las Vegas #5,Latte,Large,5,5.23,26.15,11.97,14.18,3.73
+C2-200560,2024-10-09,Tacoma,Washington,West,Tacoma #5,Latte,Medium,2,4.79,9.58,5.73,3.85,1.38
+C2-200561,2022-05-07,Tallahassee,Florida,South,Tallahassee #3,Cappuccino,Medium,5,5.44,27.2,13.89,13.31,3.82
+C2-200562,2022-04-06,Las Vegas,Nevada,West,Las Vegas #3,Cappuccino,Large,3,6.15,18.45,7.44,11.01,3.87
+C2-200563,2023-10-25,Aurora,Illinois,Central,Aurora #3,Latte,Medium,5,5.41,27.05,12.95,14.1,5.14
+C2-200564,2022-01-06,Albany,New York,East,Albany #2,Cappuccino,Small,1,3.71,3.71,1.84,1.87,1.2
+C2-200565,2021-06-17,Naperville,Illinois,Central,Naperville #2,Espresso,Small,3,3.72,11.16,7.69,3.47,0.95
+C2-200566,2022-06-13,Chandler,Arizona,West,Chandler #1,Cappuccino,Large,4,5.47,21.88,14.25,7.63,2.17
+C2-200567,2024-03-24,Lowell,Massachusetts,East,Lowell #1,Latte,Large,1,6.01,6.01,3.02,2.99,1.06
+C2-200568,2024-11-14,Seattle,Washington,West,Seattle #5,Espresso,Medium,2,5.35,10.7,6.65,4.05,2.45
+C2-200569,2024-03-25,Tampa,Florida,South,Tampa #3,Cappuccino,Small,5,3.94,19.7,11.49,8.21,5.85
+C2-200570,2024-10-25,San Antonio,Texas,Central,San Antonio #4,Cold Brew,Small,2,3.48,6.96,3.8,3.16,1.1
+C2-200571,2022-06-13,Austin,Texas,Central,Austin #3,Tea,Medium,2,5.41,10.82,5.8,5.02,2.56
+C2-200572,2021-09-27,Tacoma,Washington,West,Tacoma #2,Latte,Medium,1,5.32,5.32,2.34,2.98,1.38
+C2-200573,2022-06-09,Everett,Washington,West,Everett #2,Cold Brew,Medium,1,3.64,3.64,1.75,1.89,1.21
+C2-200574,2024-05-16,Jacksonville,Florida,South,Jacksonville #3,Cappuccino,Medium,1,4.49,4.49,2.56,1.93,1.49
+C2-200575,2024-08-07,Denver,Colorado,West,Denver #5,Tea,Large,3,5.39,16.17,7.3,8.87,3.54
+C2-200576,2024-03-25,Orlando,Florida,South,Orlando #5,Mocha,Medium,2,4.97,9.94,5.91,4.03,1.72
+C2-200577,2021-03-20,Worcester,Massachusetts,East,Worcester #2,Cappuccino,Medium,4,4.93,19.72,7.97,11.75,5.34
+C2-200578,2023-01-01,Fort Worth,Texas,Central,Fort Worth #3,Espresso,Medium,4,4.05,16.2,11.11,5.09,4.73
+C2-200579,2023-01-11,Everett,Washington,West,Everett #2,Mocha,Medium,5,4.03,20.15,12.32,7.83,4.82
+C2-200580,2021-03-15,Reno,Nevada,West,Reno #3,Cappuccino,Medium,3,4.26,12.78,8.38,4.4,1.88
+C2-200581,2023-10-09,North Las Vegas,Nevada,West,North Las Vegas #2,Cappuccino,Medium,3,3.35,10.05,6.41,3.64,3.75
+C2-200582,2024-05-26,Sacramento,California,West,Sacramento #2,Tea,Medium,3,5.51,16.53,10.74,5.79,4.4
+C2-200583,2023-07-09,Buffalo,New York,East,Buffalo #5,Americano,Small,2,2.91,5.82,3.86,1.96,1.66
+C2-200584,2024-01-09,Sparks,Nevada,West,Sparks #2,Americano,Small,3,4.1,12.3,7.95,4.35,1.75
+C2-200585,2021-02-05,Seattle,Washington,West,Seattle #5,Cold Brew,Small,3,4.44,13.32,8.96,4.36,2.94
+C2-200586,2022-04-03,Syracuse,New York,East,Syracuse #4,Tea,Medium,4,3.35,13.4,9.37,4.03,5.16
+C2-200587,2021-11-20,Phoenix,Arizona,West,Phoenix #2,Mocha,Medium,5,3.83,19.15,9.24,9.91,3.96
+C2-200588,2022-01-30,Rochester,New York,East,Rochester #3,Americano,Medium,3,3.82,11.46,4.72,6.74,3.85
+C2-200589,2024-06-28,Lowell,Massachusetts,East,Lowell #3,Mocha,Large,2,6.36,12.72,8.73,3.99,2.47
+C2-200590,2023-06-26,Spokane,Washington,West,Spokane #5,Cappuccino,Large,2,6.09,12.18,5.79,6.39,2.25
+C2-200591,2022-07-09,Aurora,Illinois,Central,Aurora #4,Mocha,Medium,3,5.13,15.39,7.96,7.43,3.29
+C2-200592,2023-12-20,Rochester,New York,East,Rochester #1,Americano,Large,3,4.85,14.55,9.51,5.04,1.81
+C2-200593,2023-03-18,North Las Vegas,Nevada,West,North Las Vegas #2,Cold Brew,Large,2,7.0,14.0,9.54,4.46,1.52
+C2-200594,2022-07-09,San Diego,California,West,San Diego #2,Tea,Large,5,5.14,25.7,10.72,14.98,4.36
+C2-200595,2022-07-04,Houston,Texas,Central,Houston #4,Latte,Small,2,3.26,6.52,3.46,3.06,1.96
+C2-200596,2021-12-09,Springfield,Massachusetts,East,Springfield #4,Americano,Medium,4,4.97,19.88,10.91,8.97,3.75
+C2-200597,2022-11-06,Orlando,Florida,South,Orlando #3,Cappuccino,Medium,2,4.48,8.96,3.87,5.09,1.28
+C2-200598,2022-08-14,Jacksonville,Florida,South,Jacksonville #2,Espresso,Small,2,3.49,6.98,3.19,3.79,1.69
+C2-200599,2023-04-19,Springfield,Massachusetts,East,Springfield #4,Espresso,Medium,2,3.87,7.74,5.24,2.5,1.78
+C2-200600,2022-11-28,San Diego,California,West,San Diego #1,Tea,Large,5,4.9,24.5,15.45,9.05,2.44
+C2-200601,2022-07-16,Aurora,Colorado,West,Aurora #2,Cappuccino,Medium,3,4.23,12.69,5.32,7.37,3.95
+C2-200602,2022-03-19,San Francisco,California,West,San Francisco #3,Cappuccino,Small,2,3.3,6.6,3.72,2.88,2.07
+C2-200603,2024-10-05,Tampa,Florida,South,Tampa #5,Tea,Small,2,4.42,8.84,5.78,3.06,1.88
+C2-200604,2022-10-31,Mesa,Arizona,West,Mesa #5,Tea,Small,3,4.09,12.27,6.77,5.5,1.29
+C2-200605,2023-07-30,Mesa,Arizona,West,Mesa #5,Cold Brew,Medium,2,4.86,9.72,6.23,3.49,1.11
+C2-200606,2024-09-02,Everett,Washington,West,Everett #5,Cappuccino,Medium,1,5.1,5.1,3.34,1.76,1.16
+C2-200607,2024-10-15,Bellevue,Washington,West,Bellevue #1,Cold Brew,Medium,5,4.14,20.7,11.71,8.99,5.91
+C2-200608,2021-11-29,Joliet,Illinois,Central,Joliet #5,Latte,Medium,5,4.63,23.15,10.84,12.31,4.18
+C2-200609,2023-03-13,Reno,Nevada,West,Reno #5,Espresso,Medium,4,4.66,18.64,9.24,9.4,5.59
+C2-200610,2021-10-21,Dallas,Texas,Central,Dallas #3,Americano,Large,3,4.08,12.24,7.8,4.44,3.41
+C2-200611,2024-07-31,Springfield,Massachusetts,East,Springfield #5,Latte,Medium,1,4.73,4.73,2.66,2.07,1.39
+C2-200612,2021-09-29,North Las Vegas,Nevada,West,North Las Vegas #2,Espresso,Medium,5,5.67,28.35,11.76,16.59,2.45
+C2-200613,2024-03-05,Chicago,Illinois,Central,Chicago #2,Latte,Medium,2,5.45,10.9,6.52,4.38,2.31
+C2-200614,2023-02-22,San Jose,California,West,San Jose #4,Cold Brew,Large,2,5.22,10.44,7.22,3.22,0.44
+C2-200615,2022-04-21,Tucson,Arizona,West,Tucson #4,Tea,Small,2,2.9,5.8,2.66,3.14,1.56
+C2-200616,2022-06-20,Worcester,Massachusetts,East,Worcester #4,Espresso,Small,4,2.63,10.52,6.79,3.73,2.03
+C2-200617,2022-04-26,Boulder,Colorado,West,Boulder #3,Cappuccino,Small,1,3.98,3.98,1.87,2.11,1.12
+C2-200618,2024-03-13,Sacramento,California,West,Sacramento #2,Espresso,Medium,5,4.26,21.3,13.9,7.4,4.51
+C2-200619,2023-06-13,New York,New York,East,New York #5,Americano,Medium,5,5.36,26.8,15.79,11.01,4.5
+C2-200620,2023-03-28,Lowell,Massachusetts,East,Lowell #5,Tea,Medium,5,5.04,25.2,15.28,9.92,2.13
+C2-200621,2023-07-19,Tacoma,Washington,West,Tacoma #4,Latte,Medium,2,4.56,9.12,4.08,5.04,1.85
+C2-200622,2021-10-25,Dallas,Texas,Central,Dallas #1,Cold Brew,Medium,2,4.73,9.46,6.27,3.19,1.51
+C2-200623,2024-07-15,Dallas,Texas,Central,Dallas #5,Espresso,Medium,3,4.88,14.64,8.61,6.03,1.68
+C2-200624,2024-03-09,Worcester,Massachusetts,East,Worcester #2,Tea,Medium,2,4.15,8.3,3.41,4.89,0.86
+C2-200625,2024-03-28,Everett,Washington,West,Everett #4,Espresso,Medium,2,4.79,9.58,5.35,4.23,1.9
+C2-200626,2022-07-21,Aurora,Colorado,West,Aurora #5,Cappuccino,Medium,2,4.0,8.0,3.63,4.37,2.91
+C2-200627,2021-10-12,Albany,New York,East,Albany #1,Espresso,Small,5,2.75,13.75,7.27,6.48,6.39
+C2-200628,2021-06-22,Tampa,Florida,South,Tampa #4,Latte,Medium,4,4.19,16.76,8.42,8.34,2.82
+C2-200629,2021-01-17,Sparks,Nevada,West,Sparks #4,Cold Brew,Small,1,3.65,3.65,1.56,2.09,1.41
+C2-200630,2023-02-03,Phoenix,Arizona,West,Phoenix #2,Latte,Medium,5,3.61,18.05,8.03,10.02,7.29
+C2-200631,2023-04-16,Albany,New York,East,Albany #5,Cold Brew,Large,5,6.73,33.65,19.91,13.74,3.23
+C2-200632,2021-11-09,Boston,Massachusetts,East,Boston #5,Cappuccino,Small,1,3.73,3.73,2.51,1.22,0.84
+C2-200633,2023-03-21,Bellevue,Washington,West,Bellevue #4,Espresso,Small,2,3.57,7.14,3.73,3.41,1.27
+C2-200634,2023-09-15,San Francisco,California,West,San Francisco #4,Cappuccino,Large,3,6.2,18.6,8.66,9.94,3.16
+C2-200635,2021-07-13,San Antonio,Texas,Central,San Antonio #5,Latte,Small,5,3.98,19.9,13.51,6.39,6.73
+C2-200636,2023-09-06,Jacksonville,Florida,South,Jacksonville #5,Americano,Medium,2,3.2,6.4,2.74,3.66,2.4
+C2-200637,2021-05-03,Springfield,Illinois,Central,Springfield #2,Americano,Medium,3,5.56,16.68,9.51,7.17,2.18
+C2-200638,2024-03-17,Cambridge,Massachusetts,East,Cambridge #4,Espresso,Small,3,3.3,9.9,6.04,3.86,1.92
+C2-200639,2023-10-05,Sparks,Nevada,West,Sparks #1,Espresso,Medium,5,4.99,24.95,12.76,12.19,5.6
+C2-200640,2021-06-22,Albany,New York,East,Albany #2,Latte,Medium,1,4.06,4.06,2.48,1.58,1.09
+C2-200641,2023-06-28,Chandler,Arizona,West,Chandler #3,Tea,Small,3,4.0,12.0,5.58,6.42,1.63
+C2-200642,2022-04-10,Rochester,New York,East,Rochester #5,Mocha,Medium,2,4.88,9.76,4.64,5.12,2.4
+C2-200643,2023-08-29,Dallas,Texas,Central,Dallas #2,Latte,Large,2,3.96,7.92,3.5,4.42,0.48
+C2-200644,2023-04-25,Bellevue,Washington,West,Bellevue #2,Cold Brew,Small,3,3.44,10.32,6.56,3.76,3.23
+C2-200645,2024-05-30,Rochester,New York,East,Rochester #5,Americano,Small,2,3.12,6.24,2.67,3.57,2.39
+C2-200646,2021-12-17,Scottsdale,Arizona,West,Scottsdale #1,Latte,Medium,5,5.76,28.8,13.63,15.17,4.07
+C2-200647,2024-08-22,Fort Worth,Texas,Central,Fort Worth #4,Cappuccino,Large,1,5.99,5.99,3.79,2.2,0.29
+C2-200648,2022-05-09,Aurora,Colorado,West,Aurora #2,Tea,Medium,5,4.82,24.1,13.63,10.47,4.95
+C2-200649,2023-06-14,Los Angeles,California,West,Los Angeles #2,Mocha,Medium,2,3.7,7.4,4.74,2.66,2.91
+C2-200650,2023-08-30,Aurora,Colorado,West,Aurora #2,Latte,Small,5,2.92,14.6,6.26,8.34,4.79
+C2-200651,2022-02-17,Springfield,Massachusetts,East,Springfield #5,Cappuccino,Large,3,6.33,18.99,12.11,6.88,4.41
+C2-200652,2021-08-11,Aurora,Colorado,West,Aurora #5,Mocha,Medium,1,3.3,3.3,1.41,1.89,0.23
+C2-200653,2022-03-06,San Jose,California,West,San Jose #4,Cold Brew,Medium,4,3.28,13.12,8.55,4.57,1.56
+C2-200654,2023-10-15,Tampa,Florida,South,Tampa #2,Tea,Medium,5,5.07,25.35,14.15,11.2,5.33
+C2-200655,2021-07-31,Syracuse,New York,East,Syracuse #2,Tea,Medium,5,3.79,18.95,10.34,8.61,2.45
+C2-200656,2023-07-11,Denver,Colorado,West,Denver #3,Latte,Medium,1,4.03,4.03,2.18,1.85,1.05
+C2-200657,2024-02-27,Jacksonville,Florida,South,Jacksonville #3,Latte,Medium,1,5.57,5.57,3.87,1.7,1.21
+C2-200658,2021-04-26,Boston,Massachusetts,East,Boston #5,Latte,Small,4,3.55,14.2,8.84,5.36,4.55
+C2-200659,2024-06-24,Springfield,Illinois,Central,Springfield #2,Cold Brew,Large,4,5.56,22.24,13.81,8.43,5.88
+C2-200660,2023-07-15,San Diego,California,West,San Diego #3,Latte,Large,2,4.04,8.08,4.1,3.98,2.25
+C2-200661,2022-08-18,San Antonio,Texas,Central,San Antonio #4,Mocha,Large,2,6.98,13.96,6.36,7.6,2.38
+C2-200662,2023-09-04,Joliet,Illinois,Central,Joliet #3,Latte,Small,3,4.18,12.54,8.08,4.46,1.23
+C2-200663,2023-08-01,Mesa,Arizona,West,Mesa #4,Latte,Large,5,6.15,30.75,18.32,12.43,5.69
+C2-200664,2021-04-21,Fort Worth,Texas,Central,Fort Worth #5,Cold Brew,Large,2,5.93,11.86,6.87,4.99,0.68
+C2-200665,2022-09-30,Denver,Colorado,West,Denver #2,Espresso,Large,5,4.99,24.95,11.86,13.09,5.2
+C2-200666,2021-10-05,Bellevue,Washington,West,Bellevue #1,Espresso,Medium,3,3.34,10.02,6.49,3.53,1.04
+C2-200667,2021-11-13,Seattle,Washington,West,Seattle #5,Mocha,Medium,3,3.43,10.29,5.9,4.39,3.41
+C2-200668,2023-05-06,San Antonio,Texas,Central,San Antonio #5,Cold Brew,Large,5,6.15,30.75,15.93,14.82,6.98
+C2-200669,2021-11-26,Joliet,Illinois,Central,Joliet #1,Cold Brew,Large,3,6.17,18.51,8.54,9.97,3.64
+C2-200670,2023-08-28,Phoenix,Arizona,West,Phoenix #1,Cappuccino,Medium,5,5.69,28.45,16.98,11.47,4.83
+C2-200671,2021-01-25,Houston,Texas,Central,Houston #3,Latte,Medium,3,4.97,14.91,6.77,8.14,2.95
+C2-200672,2021-09-13,Boston,Massachusetts,East,Boston #3,Espresso,Medium,4,5.1,20.4,8.37,12.03,2.54
+C2-200673,2024-07-06,Albany,New York,East,Albany #4,Mocha,Small,4,3.56,14.24,6.17,8.07,5.74
+C2-200674,2024-01-21,Bellevue,Washington,West,Bellevue #5,Latte,Medium,2,4.92,9.84,4.75,5.09,2.34
+C2-200675,2023-01-08,Jacksonville,Florida,South,Jacksonville #4,Mocha,Medium,5,4.59,22.95,15.64,7.31,6.32
+C2-200676,2022-09-15,Tampa,Florida,South,Tampa #2,Cold Brew,Small,5,3.05,15.25,7.77,7.48,6.72
+C2-200677,2024-09-16,Henderson,Nevada,West,Henderson #3,Cold Brew,Small,1,3.26,3.26,1.83,1.43,0.93
+C2-200678,2024-08-15,Buffalo,New York,East,Buffalo #5,Espresso,Medium,5,3.69,18.45,9.15,9.3,2.8
+C2-200679,2023-11-02,Spokane,Washington,West,Spokane #4,Cold Brew,Small,2,3.0,6.0,4.05,1.95,0.41
+C2-200680,2023-10-03,Joliet,Illinois,Central,Joliet #1,Cold Brew,Small,3,3.33,9.99,6.58,3.41,4.07
+C2-200681,2022-12-30,Joliet,Illinois,Central,Joliet #5,Cold Brew,Large,5,5.19,25.95,15.44,10.51,4.14
+C2-200682,2024-12-16,Fort Worth,Texas,Central,Fort Worth #2,Espresso,Medium,4,3.92,15.68,6.6,9.08,3.95
+C2-200683,2023-12-06,Chicago,Illinois,Central,Chicago #5,Mocha,Small,5,3.03,15.15,10.02,5.13,1.08
+C2-200684,2023-02-22,San Jose,California,West,San Jose #3,Tea,Medium,4,4.11,16.44,6.8,9.64,3.84
+C2-200685,2022-07-10,Worcester,Massachusetts,East,Worcester #1,Americano,Large,1,5.28,5.28,3.53,1.75,0.75
+C2-200686,2021-05-15,Springfield,Illinois,Central,Springfield #1,Cold Brew,Medium,2,4.72,9.44,4.71,4.73,1.77
+C2-200687,2021-03-14,San Jose,California,West,San Jose #1,Latte,Medium,4,3.63,14.52,6.72,7.8,3.09
+C2-200688,2024-05-21,New York,New York,East,New York #4,Americano,Medium,3,3.91,11.73,7.7,4.03,2.99
+C2-200689,2023-06-18,Buffalo,New York,East,Buffalo #4,Cappuccino,Small,2,3.12,6.24,2.78,3.46,0.79
+C2-200690,2023-10-08,Austin,Texas,Central,Austin #5,Mocha,Small,1,3.6,3.6,2.45,1.15,1.33
+C2-200691,2023-04-23,Bellevue,Washington,West,Bellevue #1,Tea,Medium,1,5.16,5.16,2.08,3.08,1.19
+C2-200692,2024-01-13,Los Angeles,California,West,Los Angeles #5,Americano,Medium,4,5.3,21.2,13.89,7.31,3.18
+C2-200693,2024-12-26,Miami,Florida,South,Miami #5,Cold Brew,Medium,2,3.36,6.72,2.91,3.81,0.5
+C2-200694,2024-12-04,Aurora,Colorado,West,Aurora #2,Espresso,Medium,3,4.09,12.27,7.28,4.99,3.14
+C2-200695,2021-05-31,Bellevue,Washington,West,Bellevue #4,Latte,Medium,1,4.23,4.23,1.73,2.5,0.49
+C2-200696,2022-08-26,Tucson,Arizona,West,Tucson #1,Cappuccino,Medium,5,5.17,25.85,13.31,12.54,2.55
+C2-200697,2021-06-03,Boulder,Colorado,West,Boulder #3,Cold Brew,Medium,4,3.97,15.88,7.3,8.58,5.12
+C2-200698,2023-02-10,Sacramento,California,West,Sacramento #1,Mocha,Small,1,4.06,4.06,1.88,2.18,0.94
+C2-200699,2024-08-31,Denver,Colorado,West,Denver #1,Cold Brew,Medium,2,4.45,8.9,5.73,3.17,1.52
+C2-200700,2021-06-07,Chandler,Arizona,West,Chandler #3,Latte,Medium,3,4.14,12.42,5.6,6.82,1.85
+C2-200701,2024-07-05,Buffalo,New York,East,Buffalo #5,Latte,Small,3,3.57,10.71,6.63,4.08,3.61
+C2-200702,2022-08-13,Jacksonville,Florida,South,Jacksonville #3,Americano,Medium,5,4.31,21.55,14.06,7.49,1.58
+C2-200703,2024-01-01,Tampa,Florida,South,Tampa #1,Cold Brew,Medium,2,5.05,10.1,6.85,3.25,2.07
+C2-200704,2023-11-09,Sparks,Nevada,West,Sparks #3,Cappuccino,Medium,5,5.37,26.85,18.07,8.78,1.95
+C2-200705,2021-09-23,Jacksonville,Florida,South,Jacksonville #1,Cold Brew,Medium,5,3.98,19.9,13.08,6.82,3.26
+C2-200706,2023-06-01,Dallas,Texas,Central,Dallas #2,Cappuccino,Small,5,3.13,15.65,10.74,4.91,3.81
+C2-200707,2022-10-08,Dallas,Texas,Central,Dallas #3,Cold Brew,Medium,5,5.49,27.45,14.11,13.34,6.62
+C2-200708,2024-09-29,San Diego,California,West,San Diego #2,Tea,Medium,5,4.91,24.55,15.83,8.72,5.6
+C2-200709,2022-01-07,Bellevue,Washington,West,Bellevue #3,Mocha,Large,5,4.46,22.3,10.36,11.94,6.5
+C2-200710,2023-11-13,Sacramento,California,West,Sacramento #1,Cappuccino,Large,1,5.17,5.17,3.34,1.83,0.33
+C2-200711,2023-01-18,Springfield,Illinois,Central,Springfield #4,Espresso,Medium,2,5.71,11.42,7.47,3.95,2.6
+C2-200712,2021-04-17,Naperville,Illinois,Central,Naperville #2,Cold Brew,Large,5,6.45,32.25,21.41,10.84,1.74
+C2-200713,2022-03-04,Worcester,Massachusetts,East,Worcester #4,Latte,Medium,2,5.32,10.64,6.85,3.79,0.53
+C2-200714,2024-07-22,Seattle,Washington,West,Seattle #4,Latte,Medium,5,4.66,23.3,13.69,9.61,4.66
+C2-200715,2023-11-12,Denver,Colorado,West,Denver #2,Cappuccino,Medium,5,5.15,25.75,12.76,12.99,6.39
+C2-200716,2021-06-23,San Antonio,Texas,Central,San Antonio #3,Mocha,Medium,1,4.83,4.83,2.24,2.59,1.23
+C2-200717,2023-04-19,Springfield,Massachusetts,East,Springfield #2,Mocha,Large,1,5.87,5.87,3.04,2.83,1.17
+C2-200718,2021-06-15,San Jose,California,West,San Jose #4,Cappuccino,Small,4,3.43,13.72,8.99,4.73,1.88
+C2-200719,2022-06-21,Lowell,Massachusetts,East,Lowell #1,Espresso,Medium,1,5.57,5.57,2.97,2.6,0.74
+C2-200720,2021-11-16,Rochester,New York,East,Rochester #5,Cold Brew,Medium,1,4.65,4.65,3.03,1.62,0.44
+C2-200721,2021-09-13,Bellevue,Washington,West,Bellevue #3,Espresso,Medium,4,4.64,18.56,10.57,7.99,1.09
+C2-200722,2022-07-24,Albany,New York,East,Albany #1,Mocha,Large,3,4.04,12.12,6.48,5.64,2.01
+C2-200723,2021-06-05,Lowell,Massachusetts,East,Lowell #1,Latte,Large,3,6.96,20.88,13.59,7.29,1.44
+C2-200724,2021-03-29,Joliet,Illinois,Central,Joliet #1,Cappuccino,Medium,2,3.58,7.16,3.12,4.04,1.05
+C2-200725,2023-12-19,Tampa,Florida,South,Tampa #4,Latte,Small,1,2.72,2.72,1.63,1.09,0.72
+C2-200726,2022-12-09,Colorado Springs,Colorado,West,Colorado Springs #2,Espresso,Large,5,4.74,23.7,9.78,13.92,4.66
+C2-200727,2021-11-24,Everett,Washington,West,Everett #5,Cold Brew,Medium,2,4.39,8.78,3.62,5.16,2.53
+C2-200728,2021-12-19,New York,New York,East,New York #5,Latte,Medium,1,3.98,3.98,2.3,1.68,1.18
+C2-200729,2024-10-02,Los Angeles,California,West,Los Angeles #2,Mocha,Small,5,3.75,18.75,11.89,6.86,2.41
+C2-200730,2022-07-30,Fort Collins,Colorado,West,Fort Collins #1,Latte,Medium,5,5.13,25.65,12.1,13.55,5.04
+C2-200731,2023-09-14,Rochester,New York,East,Rochester #1,Cappuccino,Medium,3,4.48,13.44,6.12,7.32,3.12
+C2-200732,2022-09-21,Boulder,Colorado,West,Boulder #3,Latte,Medium,3,5.11,15.33,6.74,8.59,3.61
+C2-200733,2023-08-15,Henderson,Nevada,West,Henderson #5,Cappuccino,Small,2,3.85,7.7,4.52,3.18,2.3
+C2-200734,2024-05-12,Albany,New York,East,Albany #5,Espresso,Large,5,6.68,33.4,23.01,10.39,6.25
+C2-200735,2022-03-06,Chicago,Illinois,Central,Chicago #5,Americano,Small,5,2.98,14.9,6.68,8.22,1.46
+C2-200736,2022-02-09,Phoenix,Arizona,West,Phoenix #3,Latte,Medium,1,5.61,5.61,3.06,2.55,0.54
+C2-200737,2021-09-06,San Diego,California,West,San Diego #1,Espresso,Small,1,3.14,3.14,1.96,1.18,0.29
+C2-200738,2024-06-28,Fort Collins,Colorado,West,Fort Collins #5,Latte,Medium,5,5.41,27.05,18.74,8.31,6.26
+C2-200739,2021-06-30,Lowell,Massachusetts,East,Lowell #5,Latte,Small,3,2.81,8.43,5.34,3.09,2.18
+C2-200740,2023-02-15,Phoenix,Arizona,West,Phoenix #4,Cappuccino,Large,4,4.49,17.96,7.77,10.19,1.82
+C2-200741,2021-04-25,Boston,Massachusetts,East,Boston #2,Latte,Large,4,4.59,18.36,11.05,7.31,2.87
+C2-200742,2021-06-01,North Las Vegas,Nevada,West,North Las Vegas #4,Mocha,Large,2,5.04,10.08,6.26,3.82,1.48
+C2-200743,2023-03-05,Phoenix,Arizona,West,Phoenix #4,Cappuccino,Small,5,3.72,18.6,9.26,9.34,1.5
+C2-200744,2024-12-27,Cambridge,Massachusetts,East,Cambridge #3,Espresso,Medium,2,3.88,7.76,5.07,2.69,2.18
+C2-200745,2021-01-06,Aurora,Illinois,Central,Aurora #2,Espresso,Medium,3,5.5,16.5,9.44,7.06,1.42
+C2-200746,2023-09-22,Worcester,Massachusetts,East,Worcester #4,Cappuccino,Large,1,5.22,5.22,2.75,2.47,0.8
+C2-200747,2022-02-14,Austin,Texas,Central,Austin #1,Cold Brew,Medium,1,4.23,4.23,1.7,2.53,0.6
+C2-200748,2024-07-30,Colorado Springs,Colorado,West,Colorado Springs #4,Cappuccino,Medium,5,5.46,27.3,16.51,10.79,6.83
+C2-200749,2024-03-26,Aurora,Illinois,Central,Aurora #1,Latte,Large,3,6.84,20.52,10.22,10.3,3.48
+C2-200750,2023-09-16,Tallahassee,Florida,South,Tallahassee #1,Cappuccino,Large,1,4.76,4.76,2.3,2.46,1.37
+C2-200751,2024-04-28,Austin,Texas,Central,Austin #4,Latte,Small,3,2.75,8.25,4.46,3.79,1.6
+C2-200752,2022-05-26,Reno,Nevada,West,Reno #3,Tea,Large,2,4.73,9.46,6.51,2.95,1.1
+C2-200753,2022-03-04,Miami,Florida,South,Miami #5,Americano,Medium,4,3.82,15.28,6.89,8.39,2.66
+C2-200754,2023-09-17,Fort Worth,Texas,Central,Fort Worth #4,Cold Brew,Medium,4,3.82,15.28,6.76,8.52,3.03
+C2-200755,2024-04-26,Miami,Florida,South,Miami #3,Mocha,Small,3,2.53,7.59,4.19,3.4,2.14
+C2-200756,2021-03-05,North Las Vegas,Nevada,West,North Las Vegas #4,Cold Brew,Medium,1,4.9,4.9,3.33,1.57,1.24
+C2-200757,2021-11-16,Orlando,Florida,South,Orlando #4,Cappuccino,Large,5,4.88,24.4,16.65,7.75,5.55
+C2-200758,2024-09-12,Syracuse,New York,East,Syracuse #3,Cappuccino,Medium,2,5.56,11.12,5.33,5.79,1.27
+C2-200759,2023-08-23,Las Vegas,Nevada,West,Las Vegas #4,Latte,Large,4,4.98,19.92,10.11,9.81,3.24
+C2-200760,2024-01-07,Boulder,Colorado,West,Boulder #1,Espresso,Large,4,4.08,16.32,10.84,5.48,1.02
+C2-200761,2021-07-06,Dallas,Texas,Central,Dallas #5,Cappuccino,Medium,3,4.54,13.62,7.62,6.0,1.85
+C2-200762,2023-08-06,Las Vegas,Nevada,West,Las Vegas #3,Espresso,Small,2,3.67,7.34,3.21,4.13,0.66
+C2-200763,2024-04-21,San Antonio,Texas,Central,San Antonio #4,Cappuccino,Large,2,4.09,8.18,5.47,2.71,1.48
+C2-200764,2021-04-21,Albany,New York,East,Albany #3,Latte,Medium,4,3.6,14.4,8.32,6.08,5.78
+C2-200765,2022-09-01,Boston,Massachusetts,East,Boston #4,Cold Brew,Large,3,4.24,12.72,6.33,6.39,0.93
+C2-200766,2024-06-25,Aurora,Colorado,West,Aurora #3,Latte,Small,2,3.64,7.28,4.15,3.13,1.0
+C2-200767,2024-01-02,San Francisco,California,West,San Francisco #4,Cappuccino,Small,2,3.85,7.7,4.1,3.6,2.47
+C2-200768,2021-09-03,Aurora,Illinois,Central,Aurora #3,Tea,Small,5,4.39,21.95,13.89,8.06,1.69
+C2-200769,2023-01-29,San Jose,California,West,San Jose #3,Tea,Medium,3,3.78,11.34,6.38,4.96,3.73
+C2-200770,2024-11-14,Rochester,New York,East,Rochester #5,Americano,Medium,2,4.99,9.98,5.12,4.86,1.96
+C2-200771,2023-08-10,Boulder,Colorado,West,Boulder #1,Cold Brew,Small,2,4.43,8.86,3.71,5.15,2.75
+C2-200772,2023-01-20,Aurora,Colorado,West,Aurora #4,Cold Brew,Medium,3,4.54,13.62,6.93,6.69,0.61
+C2-200773,2022-01-02,Cambridge,Massachusetts,East,Cambridge #2,Americano,Medium,3,5.74,17.22,7.13,10.09,2.87
+C2-200774,2021-09-13,Seattle,Washington,West,Seattle #3,Americano,Small,2,4.1,8.2,4.82,3.38,0.66
+C2-200775,2022-02-24,San Antonio,Texas,Central,San Antonio #3,Mocha,Small,4,3.47,13.88,8.23,5.65,0.98
+C2-200776,2021-04-04,San Diego,California,West,San Diego #3,Mocha,Small,4,2.93,11.72,7.09,4.63,0.94
+C2-200777,2023-03-25,Spokane,Washington,West,Spokane #3,Mocha,Small,2,2.8,5.6,2.92,2.68,1.73
+C2-200778,2022-01-16,San Francisco,California,West,San Francisco #2,Tea,Small,4,2.92,11.68,5.74,5.94,5.43
+C2-200779,2022-08-18,Jacksonville,Florida,South,Jacksonville #3,Espresso,Medium,4,4.8,19.2,11.89,7.31,2.49
+C2-200780,2022-05-17,Boulder,Colorado,West,Boulder #1,Cold Brew,Medium,1,5.56,5.56,3.43,2.13,0.52
+C2-200781,2022-09-21,Miami,Florida,South,Miami #1,Cappuccino,Medium,3,5.37,16.11,7.14,8.97,2.55
+C2-200782,2023-03-24,Chandler,Arizona,West,Chandler #2,Mocha,Medium,1,5.39,5.39,2.67,2.72,0.24
+C2-200783,2023-06-08,Albany,New York,East,Albany #5,Americano,Medium,2,4.7,9.4,6.31,3.09,2.07
+C2-200784,2022-02-11,San Antonio,Texas,Central,San Antonio #5,Tea,Small,4,3.17,12.68,8.2,4.48,1.13
+C2-200785,2023-07-15,Chicago,Illinois,Central,Chicago #1,Latte,Large,3,6.23,18.69,11.58,7.11,3.13
+C2-200786,2021-01-21,Seattle,Washington,West,Seattle #2,Latte,Small,5,4.39,21.95,10.77,11.18,2.66
+C2-200787,2024-11-23,Los Angeles,California,West,Los Angeles #5,Cappuccino,Medium,4,5.13,20.52,14.22,6.3,0.89
+C2-200788,2022-07-31,Denver,Colorado,West,Denver #2,Tea,Medium,5,5.32,26.6,15.67,10.93,1.65
+C2-200789,2023-05-31,Cambridge,Massachusetts,East,Cambridge #3,Espresso,Large,1,5.24,5.24,3.22,2.02,0.99
+C2-200790,2021-06-09,Miami,Florida,South,Miami #5,Cappuccino,Medium,5,5.4,27.0,10.94,16.06,6.59
+C2-200791,2024-01-04,Cambridge,Massachusetts,East,Cambridge #5,Latte,Medium,1,5.74,5.74,3.01,2.73,0.9
+C2-200792,2024-11-07,San Antonio,Texas,Central,San Antonio #4,Cold Brew,Medium,5,5.67,28.35,12.36,15.99,4.21
+C2-200793,2023-03-22,Joliet,Illinois,Central,Joliet #1,Mocha,Small,4,3.56,14.24,8.66,5.58,3.47
+C2-200794,2021-10-13,Miami,Florida,South,Miami #3,Cappuccino,Medium,4,4.4,17.6,8.44,9.16,2.24
+C2-200795,2021-04-03,Tucson,Arizona,West,Tucson #2,Latte,Large,4,5.49,21.96,11.33,10.63,2.31
+C2-200796,2024-12-28,Sacramento,California,West,Sacramento #3,Americano,Large,3,3.91,11.73,7.07,4.66,1.06
+C2-200797,2022-11-01,Las Vegas,Nevada,West,Las Vegas #2,Tea,Medium,1,3.25,3.25,1.87,1.38,0.84
+C2-200798,2023-11-16,Rochester,New York,East,Rochester #2,Tea,Medium,1,4.43,4.43,2.81,1.62,1.13
+C2-200799,2024-07-22,Boston,Massachusetts,East,Boston #1,Cappuccino,Medium,3,5.04,15.12,6.07,9.05,4.16
