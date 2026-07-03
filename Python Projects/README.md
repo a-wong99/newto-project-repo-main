@@ -1,7 +1,8 @@
 ## Project 1
-
+Project one involved creating a coffee shop ordering system. (See folder for details)
 
 
 ## Project 2
 
+Project 2 involved 
 
