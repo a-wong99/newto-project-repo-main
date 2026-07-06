@@ -17,6 +17,6 @@ So far I have done projects for Excel, SQL, Python and Tableau, and you can find
 ### Insurance dataset project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Python%20Projects/Project%202
 
 ## Tableau
-### Coffee Chain Sales project:
+### Coffee Chain Sales project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Tableau%20Projects/Project%201
 
 ### Bookstore project:
