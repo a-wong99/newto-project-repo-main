@@ -19,4 +19,4 @@ So far I have done projects for Excel, SQL, Python and Tableau, and you can find
 ## Tableau
 ### Coffee Chain Sales project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Tableau%20Projects/Project%201
 
-### Bookstore project:
+### Bookstore project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Tableau%20Projects/Project%202
