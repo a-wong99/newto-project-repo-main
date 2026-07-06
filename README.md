@@ -7,9 +7,9 @@ So far I have done projects for Excel, SQL, Python and Tableau, and you can find
 ### Bike rentals project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Excel%20Project
 
 ## SQL
-### DVD rentals project:
+### DVD rentals project: https://github.com/a-wong99/newto-project-repo-main/tree/main/SQL%20Projects/Project%201
 
-### Global Happiness project:
+### Global Happiness project: 
 
 ## Python
 ### Coffee shop ordering system project:
