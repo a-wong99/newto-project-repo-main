@@ -4,6 +4,7 @@ A repository with all the projects I have done as part of the NewTo training Dat
 So far I have done projects for Excel, SQL, Python and Tableau, and you can find direct links to each project in the repository below:
 
 ## Excel
+### Bike rentals project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Excel%20Project
 
 ## SQL
 ### DVD rentals project:
