@@ -4,4 +4,4 @@ Then a relationship must be created between the unioned table and the files labe
 
 Below is an image demonstrating what the data model should look like:
 
-![DataModel](Tableau Projects/Project 2/Data/Bookstore project data model.png)
+![DataModel](Tableau Projects/Project 2/Data/Bookstoreprojectdatamodel.png)
