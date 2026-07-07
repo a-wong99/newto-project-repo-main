@@ -1,5 +1,5 @@
 # newto-project-repo-main
-A repository with all the projects I have done as part of the NewTo Training Data Analyst Career Program. 
+A repository with all the projects I have done as part of the NewTo Training Data Analyst Career Program. (https://newtotraining.com/career-programmes/data-analyst/)
 
 So far I have done projects for Excel, SQL, Python and Tableau. Feel free to explore the repository, or you can also find direct links to each individual project below:
 
