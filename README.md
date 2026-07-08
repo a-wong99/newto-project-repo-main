@@ -11,6 +11,8 @@ So far I have done projects for Excel, SQL, Python and Tableau. Feel free to exp
 
 ### Global Happiness project: https://github.com/a-wong99/newto-project-repo-main/tree/main/SQL%20Projects/Project%202
 
+(Note: Both these projects were done using PostGreSQL)
+
 ## Python
 ### Coffee shop ordering system project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Python%20Projects/Project%201
 
