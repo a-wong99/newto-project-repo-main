@@ -1,0 +1,37 @@
+Product ID,Product Name,Category,Subcategory,Unit Cost
+TNT-001,2-Person Backpacking Tent,tents,Tent,252.12
+TNT-002,4-Person Dome Tent,Tents,Tent,241.44
+TNT-003,Ultralight Solo Tent,Tent,Tent,165.64
+TNT-004,Family Cabin Tent,tents,Tent,87.34
+TNT-005,3-Season Ridge Tent,Tents,Tent,264.61
+TNT-006,Bivy Shelter,Tents,Shelter,140.82
+FTW-007,Trail Runner Low,foot wear,Low,59.88
+FTW-008,Waterproof Hiking Boot,FOOTWEAR,Boot,85.72
+FTW-009,Approach Shoe,foot wear,Shoe,141.76
+FTW-010,Insulated Winter Boot,Shoes,Boot,108.89
+FTW-011,Lightweight Trekking Shoe,Shoes,Shoe,51.56
+FTW-012,Sandal Sport,Shoes,Sport,82.31
+APP-013,Down Insulated Jacket,apparel,Jacket,24.1
+APP-014,Rain Shell,Apparel,Shell,67.33
+APP-015,Merino Base Layer,Apparel,Layer,74.15
+APP-016,Fleece Pullover,apparel,Pullover,58.21
+APP-017,Trekking Trousers,apparel,Trousers,20.06
+APP-018,Sun Hoodie,apparel,Hoodie,72.36
+PCK-019,45L Trekking Pack,Pack,Pack,67.48
+PCK-020,Daypack 22L,Pack,22L,129.7
+PCK-021,Hydration Vest,Packs,Vest,71.16
+PCK-022,Expedition 65L Pack,Packs,Pack,108.28
+PCK-023,Hip Pack,Packs,Pack,125.01
+PCK-024,Climbing Rope Bag,packs,Bag,39.68
+NAV-025,Handheld GPS,Nav,GPS,129.56
+NAV-026,Baseplate Compass,navigation,Compass,88.79
+NAV-027,Headlamp 400lm,Nav,400lm,22.21
+NAV-028,Altimeter Watch,Nav,Watch,70.51
+NAV-029,Trail Map Set,navigation,Set,175.67
+NAV-030,Personal Locator Beacon,Navigation,Beacon,221.59
+COK-031,Canister Stove,Cook,Stove,47.24
+COK-032,Titanium Cook Set,Cooking,Set,44.62
+COK-033,Insulated Flask,Cooking,Flask,33.25
+COK-034,Water Filter,Cook,Filter,29.85
+COK-035,Collapsible Kettle,cooking,Kettle,60.99
+COK-036,Utensil Kit,Cooking,Kit,46.48

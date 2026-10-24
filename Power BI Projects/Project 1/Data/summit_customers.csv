@@ -1,0 +1,221 @@
+Customer ID,Customer Name,Segment,City,State
+CUST-0001,Patricia White,Retail,Boston,Massachusetts
+CUST-0002,Noah King,Retail,Portland,OREGON
+CUST-0003,Chloe Scott,Retail,Portland,Maine
+CUST-0004,Chris Garcia,Pro,Asheville,North Carolina
+CUST-0005,Hannah Green,Retail,Denver,Colorado
+CUST-0006,Mary Miller,Retail ,Atlanta,Georgia 
+CUST-0007,Luke White,Retail,Boston,Massachusetts
+CUST-0008,John Wilson,Retail,Asheville,North Carolina
+CUST-0009,Linda Rodriguez,Retail,Bozeman,MONTANA
+CUST-0010,Luke Wright,Pro ,San Diego, California
+CUST-0011,Hannah Martin,Retail,Austin,Texas
+CUST-0012,Paul Walker,Retail,Salt Lake City,Utah
+CUST-0013,Ruby Wilson,Retail,San Diego,california
+CUST-0014,Ian Jones,Retail,San Diego,California
+CUST-0015,Patricia White,RETAIL,Portland,Maine
+CUST-0016,John Jackson,Retail,Bozeman,Montana
+CUST-0017,Aaron Gonzalez,Retail,Boston,Massachusetts
+CUST-0018,Chris Harris, Retail,Asheville,North Carolina
+CUST-0019,Ian Jackson,Retail,Reno,nevada
+CUST-0020,Sean Scott,retail,Minneapolis,Minnesota 
+CUST-0021,Mark Green,Pro,Portland,Oregon
+CUST-0022,Brian Walker,Retail,San Diego, California
+CUST-0023,Grace Jones,Retail ,St Louis,Missouri
+CUST-0024,Noah Allen,Pro,Bozeman,Montana
+CUST-0025,Zoe Thompson,Retail,San Diego,California
+CUST-0026,Luke Jackson,Retail,Madison,Wisconsin
+CUST-0027,David Rodriguez,Pro,Ann Arbor,Michigan
+CUST-0028,Ian Wilson,Pro,Denver,colorado
+CUST-0029,Mark Gonzalez,PRO,Denver,Colorado
+CUST-0030,Zoe Lee,Retail,Portland,Maine
+CUST-0031,Robert Martinez,Pro,Salt Lake City,Utah
+CUST-0032,Linda Taylor,Pro,Portland,Maine
+CUST-0033,Jennifer Jackson,Retail,Burlington, Vermont
+CUST-0034,Ian Scott,Retail,Orlando,florida
+CUST-0035,Brian Lee,Retail ,Ann Arbor,Michigan
+CUST-0036,Luke Wright,Retail,Bozeman,MONTANA
+CUST-0037,Ruby Green,pro,Bozeman, Montana
+CUST-0038,David Thomas,Retail,Seattle,Washington
+CUST-0039,Mia Baker,Retail,Orlando, Florida
+CUST-0040,Sean Allen,Retail,Phoenix,Arizona
+CUST-0041,Emma Clark,Retail,Chicago,illinois
+CUST-0042,Maya Baker,Retail ,Knoxville,Tennessee
+CUST-0043,Jason Anderson, Retail,Salt Lake City,Utah
+CUST-0044,Michael Johnson,Pro,Denver,COLORADO
+CUST-0045,Chris Scott,Retail,Denver,Colorado 
+CUST-0046,Chloe Jones,PRO,Buffalo,New York
+CUST-0047,Ian Moore,PRO,Knoxville, Tennessee
+CUST-0048,Paul White, Retail,Asheville,North Carolina 
+CUST-0049,Robert Baker,Retail,Salt Lake City,Utah
+CUST-0050,David Thompson, Pro,Austin,TEXAS
+CUST-0051,Patricia Miller,Pro,Richmond,Virginia
+CUST-0052,Aaron Anderson,Pro,Seattle,Washington 
+CUST-0053,Ruby Allen,Retail,Minneapolis,Minnesota
+CUST-0054,Noah Jones,retail,Ann Arbor,Michigan
+CUST-0055,Aaron Young,Retail,Newark,NEW JERSEY
+CUST-0056,Ian Jackson,Pro,Boston,massachusetts
+CUST-0057,Chris Johnson,WHOLESALE,Newark,New Jersey
+CUST-0058,Sophia Smith,Retail,San Diego, California
+CUST-0059,Ruby Rodriguez,Pro,Phoenix, Arizona
+CUST-0060,Luke Lee,Retail,Denver,Colorado
+CUST-0061,Emma Perez,Pro ,San Diego,CALIFORNIA
+CUST-0062,Robert Harris,RETAIL,Portland,oregon
+CUST-0063,Paul Lopez,Retail,San Diego,California 
+CUST-0064,Noah Martin,Pro,Newark,New Jersey
+CUST-0065,Sophia White,Retail,St Louis,Missouri 
+CUST-0066,David Miller,Retail,Knoxville,Tennessee
+CUST-0067,Olivia Johnson,Wholesale ,Asheville,North Carolina
+CUST-0068,Paul Baker,Retail,St Louis, Missouri
+CUST-0069,James Johnson,Retail,Buffalo,NEW YORK
+CUST-0070,Noah Lopez,Pro,Salt Lake City, Utah
+CUST-0071,Chris Thompson,Retail,Seattle,Washington
+CUST-0072,Chris Lopez,Retail,Madison,Wisconsin
+CUST-0073,Sophia Young,Retail,Boston,Massachusetts
+CUST-0074,Lily Walker,RETAIL,Portland,Oregon
+CUST-0075,Ava Davis,Retail,Boston,massachusetts
+CUST-0076,Olivia Thompson, Pro,Asheville,North Carolina
+CUST-0077,Sean Brown,Wholesale,Knoxville,Tennessee 
+CUST-0078,Mary Thompson,Retail,Richmond,Virginia
+CUST-0079,Aaron Young,Retail,St Louis,MISSOURI
+CUST-0080,Patricia Clark,PRO,Salt Lake City,Utah
+CUST-0081,Paul Scott,Retail,Boston,Massachusetts
+CUST-0082,Daniel Smith,Retail,Portland,Oregon 
+CUST-0083,Grace Davis,Retail,Richmond, Virginia
+CUST-0084,Jason Baker,Retail,Atlanta,Georgia
+CUST-0085,Jennifer Martinez,Wholesale,Reno,Nevada
+CUST-0086,Nora White,Retail,Bozeman, Montana
+CUST-0087,Chloe Wilson,Retail,Seattle,Washington
+CUST-0088,Michael White,pro,Portland,Oregon
+CUST-0089,Kevin Wilson,Retail ,Buffalo,new york
+CUST-0090,Grace Martin,retail,Reno,Nevada
+CUST-0091,Ruby Rodriguez,Retail,Denver,COLORADO
+CUST-0092,Noah Taylor,Retail,Salt Lake City,Utah 
+CUST-0093,Daniel Walker,Retail,Seattle,Washington
+CUST-0094,Zoe Hernandez,Wholesale,Asheville,North Carolina 
+CUST-0095,Linda Walker,Retail,Seattle,Washington
+CUST-0096,Kevin Jones,Retail,Portland,Oregon
+CUST-0097,Grace Williams,Retail,Portland, Oregon
+CUST-0098,Eric Martinez,Retail,Pittsburgh,Pennsylvania
+CUST-0099,Hannah Allen,Retail,Salt Lake City,Utah
+CUST-0100,Noah Miller,Pro,Knoxville,Tennessee
+CUST-0101,Michael Wright,Retail,Bozeman,Montana
+CUST-0102,Emma Clark,Wholesale,Reno, Nevada
+CUST-0103,Grace Lewis,Pro,Seattle,Washington
+CUST-0104,Mia Allen,Pro,Madison,Wisconsin
+CUST-0105,Daniel Wilson,Retail,Chicago,Illinois
+CUST-0106,David Jackson,Retail,Seattle,washington
+CUST-0107,Lily Miller,Pro,Minneapolis,Minnesota
+CUST-0108,Eric Martin,Retail,Phoenix,Arizona
+CUST-0109,Jason Scott,Pro,Minneapolis, Minnesota
+CUST-0110,Zoe Miller,Retail,Portland,Oregon 
+CUST-0111,Paul White,pro,Madison,Wisconsin 
+CUST-0112,Mark Hill,Retail,Columbus,Ohio
+CUST-0113,Sean King,Retail,Newark, New Jersey
+CUST-0114,Chloe Anderson,Retail,Madison,Wisconsin
+CUST-0115,Linda Miller,Retail,Richmond,VIRGINIA
+CUST-0116,Chloe Walker,Retail ,Minneapolis,Minnesota
+CUST-0117,Linda Taylor,Pro,Ann Arbor, Michigan
+CUST-0118,Daniel Thomas,Pro,Reno,Nevada
+CUST-0119,Daniel King,Retail ,San Diego,California
+CUST-0120,Patricia Wilson,RETAIL,Atlanta, Georgia
+CUST-0121,James Clark,Wholesale,Atlanta,Georgia
+CUST-0122,Mary Allen,pro,Reno,Nevada
+CUST-0123,Olivia Wilson,Retail,Newark,NEW JERSEY
+CUST-0124,Mary Walker,Pro,Portland,oregon
+CUST-0125,Robert Garcia,Pro,Burlington,Vermont 
+CUST-0126,Ian Allen,Pro,Columbus,OHIO
+CUST-0127,Sarah Jones, Retail,Newark,New Jersey
+CUST-0128,Aaron Hill,Retail,Seattle,Washington
+CUST-0129,Michael Miller,Wholesale,Portland,Oregon
+CUST-0130,Luke Taylor,Retail,Asheville,North Carolina
+CUST-0131,Noah Miller,Pro,Minneapolis,Minnesota
+CUST-0132,Hannah Davis,Retail ,Newark,New Jersey 
+CUST-0133,Jennifer Williams, Retail,Minneapolis,Minnesota
+CUST-0134,Jennifer Johnson,Retail,Austin,Texas
+CUST-0135,Mark Lopez,Retail ,Salt Lake City,Utah
+CUST-0136,David Taylor,Retail,Columbus,OHIO
+CUST-0137,Maya Hill,Pro,San Diego,CALIFORNIA
+CUST-0138,Sarah Scott,Retail,Pittsburgh, Pennsylvania
+CUST-0139,John Anderson,RETAIL,Phoenix,Arizona
+CUST-0140,Kevin Jones,Retail,Denver,colorado
+CUST-0141,Nora Jackson,Retail ,San Diego, California
+CUST-0142,Michael Miller,Wholesale,Portland,Oregon
+CUST-0143,Chloe Moore,Retail,Boston,Massachusetts
+CUST-0144,Jennifer Harris,RETAIL,Denver,Colorado
+CUST-0145,Sarah Jackson,Wholesale,Phoenix,Arizona
+CUST-0146,Lily Jackson,Retail,Phoenix, Arizona
+CUST-0147,Ava Martin,Retail,Knoxville,Tennessee
+CUST-0148,Luke Young,Retail,Reno,Nevada
+CUST-0149,Olivia Miller,Retail,Boston,Massachusetts
+CUST-0150,Daniel Jones,Retail,Portland,Oregon
+CUST-0151,Luke Green,Retail,Burlington,Vermont
+CUST-0152,Aaron Baker,Retail,Denver,Colorado
+CUST-0153,Eric Jackson,Retail,Denver,COLORADO
+CUST-0154,Mia Scott,Pro,Orlando,Florida
+CUST-0155,Hannah Lopez,Retail,San Diego,California
+CUST-0156,Nora Williams,retail,Asheville,North Carolina
+CUST-0157,Ian Taylor,Retail,Phoenix,Arizona
+CUST-0158,Patricia Walker,pro,Boston,Massachusetts
+CUST-0159,Nora Walker,Retail,Buffalo,New York
+CUST-0160,Chris King,WHOLESALE,Columbus,Ohio
+CUST-0161,Nora Lewis,retail,Chicago,Illinois
+CUST-0162,Emma Miller,Retail,Salt Lake City,UTAH
+CUST-0163,Sean Garcia,Pro,Minneapolis,minnesota
+CUST-0164,Noah Perez,Retail,Newark,New Jersey
+CUST-0165,Noah Green,Retail,Salt Lake City,UTAH
+CUST-0166,Chris Jackson,Retail,Portland,Oregon
+CUST-0167,Michael Baker,RETAIL,Seattle,Washington
+CUST-0168,Sophia Young,Retail,Asheville,North Carolina
+CUST-0169,Chloe Young,Retail,Phoenix,Arizona
+CUST-0170,Sean White,Retail,Columbus,Ohio 
+CUST-0171,Linda Thomas,Pro ,Portland,Maine
+CUST-0172,James Harris,Retail,Bozeman,Montana
+CUST-0173,Ruby Gonzalez,Retail,Buffalo,NEW YORK
+CUST-0174,Sophia Davis, Retail,Chicago,Illinois
+CUST-0175,Mia Walker,Pro,Atlanta,Georgia 
+CUST-0176,Eric Lewis,Retail ,Seattle,Washington
+CUST-0177,Grace Baker,Retail,San Diego,California 
+CUST-0178,Ava Anderson,Retail,Austin,Texas
+CUST-0179,Mia Jackson,retail,Columbus,Ohio
+CUST-0180,Luke Brown,Retail,Ann Arbor,Michigan
+CUST-0181,Mark Lee,Retail,Atlanta,GEORGIA
+CUST-0182,Jason Johnson, Retail,Newark, New Jersey
+CUST-0183,Robert Thompson, Retail,Bozeman,Montana
+CUST-0184,Hannah Williams, Pro,Atlanta,georgia
+CUST-0185,Emma Davis,Pro,Asheville, North Carolina
+CUST-0186,Chris Wright,Retail,Denver,COLORADO
+CUST-0187,Eric Taylor,Retail,Denver,Colorado
+CUST-0188,Maya Clark,Pro,Minneapolis,Minnesota
+CUST-0189,Sophia Allen,Retail,Atlanta,georgia
+CUST-0190,Lily Thompson,PRO,Austin,Texas
+CUST-0191,Olivia Harris,Pro,St Louis,Missouri
+CUST-0192,Sophia Anderson,Pro,Richmond, Virginia
+CUST-0193,Chris Anderson,Wholesale,Atlanta,Georgia 
+CUST-0194,Maya Wilson,Retail,Ann Arbor,Michigan
+CUST-0195,John Walker,Retail,Austin,Texas
+CUST-0196,John Gonzalez,Wholesale,Orlando,FLORIDA
+CUST-0197,Sean Wilson,PRO,Buffalo,NEW YORK
+CUST-0198,Patricia Young,Pro ,Buffalo,NEW YORK
+CUST-0199,Hannah Clark,Retail,Bozeman,Montana 
+CUST-0200,Ruby Anderson, Retail,San Diego, California
+CUST-0201,Chris Lee,Retail,Boston,Massachusetts
+CUST-0202,Lily White,Retail,Atlanta,Georgia
+CUST-0203,Sarah Perez,Retail,Chicago,Illinois
+CUST-0204,Robert Miller,Retail ,Bozeman,Montana
+CUST-0205,Jason Hernandez,PRO,Salt Lake City,UTAH
+CUST-0206,Brian Hill, Retail,Bozeman,Montana
+CUST-0207,Emma Taylor,Retail ,Reno,nevada
+CUST-0208,David Lee,Retail,Reno,Nevada
+CUST-0209,Chris Scott,Retail,Portland,maine
+CUST-0210,Daniel Martinez,Retail,Reno,Nevada
+CUST-0211,Emma Moore,Retail ,Pittsburgh, Pennsylvania
+CUST-0212,Robert Williams,RETAIL,Chicago,Illinois
+CUST-0213,David Lopez, Retail,Boston,Massachusetts
+CUST-0214,John Davis,Retail ,Austin,Texas
+CUST-0215,Chris Allen,Pro,Bozeman,Montana
+CUST-0216,Jennifer Moore,retail,Buffalo,New York
+CUST-0217,Aaron Taylor,retail,Minneapolis,MINNESOTA
+CUST-0218,Grace Martin,retail,Reno,Nevada
+CUST-0219,Mia Lopez,Pro,Denver,Colorado
+CUST-0220,Sean Walker,Retail,Columbus,Ohio

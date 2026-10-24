@@ -1,0 +1,5 @@
+PaymentMethodID,MethodName,MethodType
+1,Credit Card,Card
+2,Bank Transfer,Bank
+3,PayPal,Digital
+4,Direct Debit,Bank
