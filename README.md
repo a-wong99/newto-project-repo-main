@@ -28,4 +28,4 @@ I have done projects for Excel, SQL, Python, Power BI and Tableau. Feel free to 
 ## Power BI
 ### Summit Outfitters Project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Power%20BI%20Projects/Project%201
 
-### Customer Subscription and Churn Analysis Project: 
+### Customer Subscription and Churn Analysis Project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Power%20BI%20Projects/Project%202
