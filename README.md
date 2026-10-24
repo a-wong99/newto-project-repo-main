@@ -22,3 +22,8 @@ So far I have done projects for Excel, SQL, Python and Tableau. Feel free to exp
 ### Coffee Chain Sales project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Tableau%20Projects/Project%201
 
 ### Bookstore project: https://github.com/a-wong99/newto-project-repo-main/tree/main/Tableau%20Projects/Project%202
+
+## Power BI
+### Summit Outfitters Project:
+
+### Customer Subscription and Churn Analysis Project:
